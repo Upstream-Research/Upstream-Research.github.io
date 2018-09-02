@@ -1,0 +1,2 @@
+# don't publish Sandcastle build log file for help docs
+LastBuild.log
