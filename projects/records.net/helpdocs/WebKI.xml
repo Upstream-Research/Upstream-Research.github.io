@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="Add method">
-    <HelpKINode Title="ArrayRecordList(TValue, TFieldType).Add Method " Url="html/f364899f-27f4-fa66-032c-282b4520ac9b.htm" />
-    <HelpKINode Title="CsvRecordCollectionBuilder.Add Method " Url="html/e715657a-a23c-671b-dc84-d4ac4cf409b9.htm" />
-    <HelpKINode Title="IRecordCollector(TValue).Add Method " Url="html/5ce6911e-a43b-026c-f6cf-f14d3379b6f0.htm" />
+    <HelpKINode Title="ArrayRecordList(TValue, TFieldType).Add Method " Url="html/82cf5222-560d-00a3-734e-7c61f43f6607.htm" />
+    <HelpKINode Title="CsvRecordCollectionBuilder.Add Method " Url="html/7aca12bf-f8b7-071a-60fb-05528a5f8731.htm" />
+    <HelpKINode Title="IRecordCollector(TValue).Add Method " Url="html/43dca05b-f68d-da0a-5eeb-d0468eaf1d69.htm" />
   </HelpKINode>
   <HelpKINode Title="AddCurrentItem method">
     <HelpKINode Title="CsvRecordCollectionBuilder.AddCurrentItem Method " Url="html/a2fc6baf-0275-01a0-2539-8e8d2887af13.htm" />
     <HelpKINode Title="IRecordCollectionBuilder(TValue).AddCurrentItem Method " Url="html/66c2d6bc-87c3-dac4-b597-a7ed7d516be6.htm" />
   </HelpKINode>
   <HelpKINode Title="AddField method">
-    <HelpKINode Title="ArrayRecordList(TValue, TFieldType).AddField Method " Url="html/ceb3e4a1-ad5f-3145-8d35-5f15e67c561a.htm" />
+    <HelpKINode Title="ArrayRecordList(TValue, TFieldType).AddField Method " Url="html/3706008a-3a94-fc3e-03a6-2ab2956bce3c.htm" />
     <HelpKINode Title="BasicRecordSchema(TFieldType).AddField Method " Url="html/810fe2ef-2563-4ed7-7909-0de994a59336.htm" />
   </HelpKINode>
   <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType) class">
@@ -19,8 +19,8 @@
     <HelpKINode Title="methods" Url="html/678c28f3-4527-a711-b99d-a06b53653a74.htm" />
     <HelpKINode Title="properties" Url="html/bc60bf0d-4663-a58d-3348-9f4dd2d955b5.htm" />
   </HelpKINode>
-  <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType).Add method" Url="html/f364899f-27f4-fa66-032c-282b4520ac9b.htm" />
-  <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType).AddField method" Url="html/ceb3e4a1-ad5f-3145-8d35-5f15e67c561a.htm" />
+  <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType).Add method" Url="html/82cf5222-560d-00a3-734e-7c61f43f6607.htm" />
+  <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType).AddField method" Url="html/3706008a-3a94-fc3e-03a6-2ab2956bce3c.htm" />
   <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType).ArrayRecordList constructor" Url="html/e3ccc096-e8e5-23d2-b0c3-f61cedda32cf.htm" />
   <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType).Clear method" Url="html/78fa2526-f1ae-9223-1bda-6cb7d1e4af75.htm" />
   <HelpKINode Title="ArrayRecordList(Of TValue, TFieldType).Contains method" Url="html/c7d96db1-bfb5-e30f-b212-560f818d1a62.htm" />
@@ -45,8 +45,8 @@
     <HelpKINode Title="methods" Url="html/678c28f3-4527-a711-b99d-a06b53653a74.htm" />
     <HelpKINode Title="properties" Url="html/bc60bf0d-4663-a58d-3348-9f4dd2d955b5.htm" />
   </HelpKINode>
-  <HelpKINode Title="ArrayRecordList&lt;TValue, TFieldType&gt;.Add method" Url="html/f364899f-27f4-fa66-032c-282b4520ac9b.htm" />
-  <HelpKINode Title="ArrayRecordList&lt;TValue, TFieldType&gt;.AddField method" Url="html/ceb3e4a1-ad5f-3145-8d35-5f15e67c561a.htm" />
+  <HelpKINode Title="ArrayRecordList&lt;TValue, TFieldType&gt;.Add method" Url="html/82cf5222-560d-00a3-734e-7c61f43f6607.htm" />
+  <HelpKINode Title="ArrayRecordList&lt;TValue, TFieldType&gt;.AddField method" Url="html/3706008a-3a94-fc3e-03a6-2ab2956bce3c.htm" />
   <HelpKINode Title="ArrayRecordList&lt;TValue, TFieldType&gt;.ArrayRecordList constructor" Url="html/e3ccc096-e8e5-23d2-b0c3-f61cedda32cf.htm" />
   <HelpKINode Title="ArrayRecordList&lt;TValue, TFieldType&gt;.Clear method" Url="html/78fa2526-f1ae-9223-1bda-6cb7d1e4af75.htm" />
   <HelpKINode Title="ArrayRecordList&lt;TValue, TFieldType&gt;.Contains method" Url="html/c7d96db1-bfb5-e30f-b212-560f818d1a62.htm" />
@@ -72,6 +72,22 @@
     <HelpKINode Title="ParsingRecordAccessor(TFieldType).AttachTo Method " Url="html/d9948831-bfa6-44ac-f2cd-3e276a9f979a.htm" />
     <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).AttachTo Method " Url="html/e51a5bc4-9ce4-9f02-1823-e30c2e981fe7.htm" />
   </HelpKINode>
+  <HelpKINode Title="BasicFieldValueStringRepresentation(Of TValue) class">
+    <HelpKINode Title="BasicFieldValueStringRepresentation(TValue) Class" Url="html/348ffcbb-47ea-df51-8cd7-a25dcf2c5a6c.htm" />
+    <HelpKINode Title="constructor" Url="html/62a8dfd5-1c35-e52d-8208-88ad45e1256e.htm" />
+    <HelpKINode Title="methods" Url="html/f623edf1-1d07-df88-4c0f-47db661d506e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasicFieldValueStringRepresentation(Of TValue).BasicFieldValueStringRepresentation constructor" Url="html/62a8dfd5-1c35-e52d-8208-88ad45e1256e.htm" />
+  <HelpKINode Title="BasicFieldValueStringRepresentation(Of TValue).ToString method" Url="html/369c8f8f-fa57-514f-68da-313f1b26df66.htm" />
+  <HelpKINode Title="BasicFieldValueStringRepresentation(Of TValue).TryParse method" Url="html/6a97f4ae-5d02-e373-841e-f4b09701db35.htm" />
+  <HelpKINode Title="BasicFieldValueStringRepresentation&lt;TValue&gt; class">
+    <HelpKINode Title="BasicFieldValueStringRepresentation(TValue) Class" Url="html/348ffcbb-47ea-df51-8cd7-a25dcf2c5a6c.htm" />
+    <HelpKINode Title="constructor" Url="html/62a8dfd5-1c35-e52d-8208-88ad45e1256e.htm" />
+    <HelpKINode Title="methods" Url="html/f623edf1-1d07-df88-4c0f-47db661d506e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasicFieldValueStringRepresentation&lt;TValue&gt;.BasicFieldValueStringRepresentation constructor" Url="html/62a8dfd5-1c35-e52d-8208-88ad45e1256e.htm" />
+  <HelpKINode Title="BasicFieldValueStringRepresentation&lt;TValue&gt;.ToString method" Url="html/369c8f8f-fa57-514f-68da-313f1b26df66.htm" />
+  <HelpKINode Title="BasicFieldValueStringRepresentation&lt;TValue&gt;.TryParse method" Url="html/6a97f4ae-5d02-e373-841e-f4b09701db35.htm" />
   <HelpKINode Title="BasicRecordFieldType(Of TValue) class">
     <HelpKINode Title="BasicRecordFieldType(TValue) Class" Url="html/2f99ba25-97ce-c6fd-134b-86c20036be2b.htm" />
     <HelpKINode Title="constructor" Url="html/813e0020-feb4-2639-d02c-9501eae27248.htm" />
@@ -131,7 +147,7 @@
   <HelpKINode Title="BuildIndex method" Url="html/049c137d-8def-a385-cdc9-3ae79b37f9ef.htm" />
   <HelpKINode Title="Clear method">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).Clear Method " Url="html/78fa2526-f1ae-9223-1bda-6cb7d1e4af75.htm" />
-    <HelpKINode Title="IRecordCollection(TValue, TField).Clear Method " Url="html/c45d4674-49d0-73ac-0785-5234a880e31b.htm" />
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType).Clear Method " Url="html/c45d4674-49d0-73ac-0785-5234a880e31b.htm" />
   </HelpKINode>
   <HelpKINode Title="Close method">
     <HelpKINode Title="CsvReader.Close Method " Url="html/1000fff4-0d74-3b5a-a1df-977c15284da8.htm" />
@@ -139,20 +155,22 @@
   </HelpKINode>
   <HelpKINode Title="Compare method">
     <HelpKINode Title="BasicRecordFieldType(TValue).Compare Method " Url="html/cb99799b-7c5d-0852-ba59-281eb5de613b.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).Compare Method " Url="html/657c5b9c-6e41-e6d5-cf8c-45a73d24edc2.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).Compare Method " Url="html/b5854a12-ea37-467b-35f5-96817b34d3df.htm" />
   </HelpKINode>
   <HelpKINode Title="CompareFieldTo method">
     <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType).CompareFieldTo Method " Url="html/4a0362fe-6de0-5565-779e-f7eec5ef812c.htm" />
     <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).CompareFieldTo Method " Url="html/41e5b154-4862-a6a4-5aab-a7f0acb7342a.htm" />
   </HelpKINode>
   <HelpKINode Title="Contains method" Url="html/c7d96db1-bfb5-e30f-b212-560f818d1a62.htm" />
-  <HelpKINode Title="CopyInto(Of TValue) method" Url="html/75815c5a-ae94-07f8-386a-dd5dbbb56e71.htm" />
-  <HelpKINode Title="CopyInto&lt;TValue&gt; method" Url="html/75815c5a-ae94-07f8-386a-dd5dbbb56e71.htm" />
+  <HelpKINode Title="CopyInto(Of TValue) method" Url="html/bac452d6-5419-9417-57e3-678084d43428.htm" />
+  <HelpKINode Title="CopyInto&lt;TValue&gt; method" Url="html/bac452d6-5419-9417-57e3-678084d43428.htm" />
   <HelpKINode Title="CopyTo method" Url="html/085ba782-fcd5-93ac-cd21-92c3a494e6ab.htm" />
   <HelpKINode Title="Count property">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).Count Property " Url="html/80ad52cc-a52b-d7fd-133a-29579a952f7b.htm" />
-    <HelpKINode Title="IRecordCollection(TValue, TField).Count Property " Url="html/6116f10a-dd52-b1c4-07ad-70ff63780362.htm" />
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType).Count Property " Url="html/6116f10a-dd52-b1c4-07ad-70ff63780362.htm" />
   </HelpKINode>
+  <HelpKINode Title="CreateFieldPositionMapping(Of TValue) method" Url="html/998ed49d-4c12-bfbd-2b0f-fcbb4bc16233.htm" />
+  <HelpKINode Title="CreateFieldPositionMapping&lt;TValue&gt; method" Url="html/998ed49d-4c12-bfbd-2b0f-fcbb4bc16233.htm" />
   <HelpKINode Title="CsvEncoding class">
     <HelpKINode Title="CsvEncoding Class" Url="html/e413afa4-64f1-052d-417b-67f08e105afa.htm" />
     <HelpKINode Title="constructor" Url="html/b15b0a63-24bf-7a80-096b-79423e6563d1.htm" />
@@ -160,7 +178,7 @@
     <HelpKINode Title="properties" Url="html/b1e105cb-76a9-678d-776b-b0aba80ab941.htm" />
   </HelpKINode>
   <HelpKINode Title="CsvEncoding.CsvEncoding constructor" Url="html/b15b0a63-24bf-7a80-096b-79423e6563d1.htm" />
-  <HelpKINode Title="CsvEncoding.DecodeInto method" Url="html/74c3a07b-3330-a15c-7fb2-48184b810366.htm" />
+  <HelpKINode Title="CsvEncoding.DecodeInto method" Url="html/611fbed2-d5b1-8ad4-7441-3db475992679.htm" />
   <HelpKINode Title="CsvEncoding.EncodeValueInto method" Url="html/a1f0ea81-456d-a9fb-f154-a751cae33fc5.htm" />
   <HelpKINode Title="CsvEncoding.EqualsRecordSeparator method" Url="html/ae382d31-1c47-3a0b-30ea-f431ecdf56dd.htm" />
   <HelpKINode Title="CsvEncoding.EqualsUnitSeparator method" Url="html/67fdc9b4-48b7-82ee-ffca-74a6ab96f3bd.htm" />
@@ -190,23 +208,23 @@
   <HelpKINode Title="CsvReader.ValueText property" Url="html/93ccf636-7427-a6f3-09c2-194c17321f29.htm" />
   <HelpKINode Title="CsvRecordCollectionBuilder class">
     <HelpKINode Title="CsvRecordCollectionBuilder Class" Url="html/cad7f1a3-92f7-8124-6dc5-1328473ae690.htm" />
-    <HelpKINode Title="constructor" Url="html/409f4810-9b12-3848-0902-1f1caacf8008.htm" />
+    <HelpKINode Title="constructor" Url="html/ae24ff41-c242-a49a-1b6d-6795456a3031.htm" />
     <HelpKINode Title="methods" Url="html/c6a18a4e-1620-6869-133d-d739a4961c0b.htm" />
     <HelpKINode Title="properties" Url="html/67d4887e-efbc-c116-bac3-18fdb7b28be0.htm" />
   </HelpKINode>
-  <HelpKINode Title="CsvRecordCollectionBuilder.Add method" Url="html/e715657a-a23c-671b-dc84-d4ac4cf409b9.htm" />
+  <HelpKINode Title="CsvRecordCollectionBuilder.Add method" Url="html/7aca12bf-f8b7-071a-60fb-05528a5f8731.htm" />
   <HelpKINode Title="CsvRecordCollectionBuilder.AddCurrentItem method" Url="html/a2fc6baf-0275-01a0-2539-8e8d2887af13.htm" />
-  <HelpKINode Title="CsvRecordCollectionBuilder.CsvRecordCollectionBuilder constructor" Url="html/409f4810-9b12-3848-0902-1f1caacf8008.htm" />
+  <HelpKINode Title="CsvRecordCollectionBuilder.CsvRecordCollectionBuilder constructor" Url="html/ae24ff41-c242-a49a-1b6d-6795456a3031.htm" />
   <HelpKINode Title="CsvRecordCollectionBuilder.Current property" Url="html/d0e59059-1b1f-5046-f3f5-0ef5891b3c74.htm" />
   <HelpKINode Title="CsvRecordCollectionBuilder.Dispose method" Url="html/b7b141c0-a5ce-5a22-2b20-7e2433d1ff57.htm" />
   <HelpKINode Title="CsvRecordCollectionBuilder.InitializeCurrentItem method" Url="html/bf5bd155-f959-6ccb-1c04-48dfe9c09641.htm" />
   <HelpKINode Title="CsvRecordEnumerator class">
     <HelpKINode Title="CsvRecordEnumerator Class" Url="html/ca8815cb-c368-9b16-552c-a2a82e1c62ad.htm" />
-    <HelpKINode Title="constructor" Url="html/1b57b0bf-02dd-27c0-6abc-75f76a809e20.htm" />
+    <HelpKINode Title="constructor" Url="html/e821b5b3-5e6b-cf7f-8e24-1cfd1bec27dc.htm" />
     <HelpKINode Title="methods" Url="html/6d5ce2d2-9d60-7340-159d-755c32c07428.htm" />
     <HelpKINode Title="properties" Url="html/2fdead01-db85-dac2-e850-ea1707c6547f.htm" />
   </HelpKINode>
-  <HelpKINode Title="CsvRecordEnumerator.CsvRecordEnumerator constructor" Url="html/1b57b0bf-02dd-27c0-6abc-75f76a809e20.htm" />
+  <HelpKINode Title="CsvRecordEnumerator.CsvRecordEnumerator constructor" Url="html/e821b5b3-5e6b-cf7f-8e24-1cfd1bec27dc.htm" />
   <HelpKINode Title="CsvRecordEnumerator.Current property" Url="html/066af8af-616f-5d9a-f9d5-10e885b2f1d8.htm" />
   <HelpKINode Title="CsvRecordEnumerator.Dispose method" Url="html/38209b1b-9c33-d316-dc48-2c090d99d49e.htm" />
   <HelpKINode Title="CsvRecordEnumerator.MoveNext method" Url="html/5012f153-02cd-ebf3-d343-496a9e3f7727.htm" />
@@ -230,10 +248,12 @@
   </HelpKINode>
   <HelpKINode Title="DataType property">
     <HelpKINode Title="BasicRecordFieldType(TValue).DataType Property " Url="html/70524f50-47ed-b205-b59b-4f2a74be286a.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).DataType Property " Url="html/d7901475-1954-6366-eb16-16b224395f53.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).DataType Property " Url="html/244d5544-3474-ab92-3681-95ebdf47aed5.htm" />
     <HelpKINode Title="IRecordFieldType(TValue).DataType Property " Url="html/5dcb7932-7b7a-02c6-0581-92e3bb570701.htm" />
   </HelpKINode>
-  <HelpKINode Title="DecodeInto method" Url="html/74c3a07b-3330-a15c-7fb2-48184b810366.htm" />
+  <HelpKINode Title="DecodeEnumerable method" Url="html/4d9bc12e-e7c7-7b10-3150-d97543e3c124.htm" />
+  <HelpKINode Title="DecodeField method" Url="html/ce1595f8-d4c2-9d67-2219-f9d305672d73.htm" />
+  <HelpKINode Title="DecodeInto method" Url="html/611fbed2-d5b1-8ad4-7441-3db475992679.htm" />
   <HelpKINode Title="DictionaryRecordAccessor(Of TValue, TFieldType) class">
     <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType) Class" Url="html/b6b22df3-1ec6-bb4f-651e-2ee7d3bfdce3.htm" />
     <HelpKINode Title="constructor" Url="html/72b652a2-0c6c-2894-dbe9-37e696e4c667.htm" />
@@ -247,6 +267,7 @@
   <HelpKINode Title="DictionaryRecordAccessor(Of TValue, TFieldType).GetEnumerator method" Url="html/75580205-198d-b4ae-f17c-7d8acc77365f.htm" />
   <HelpKINode Title="DictionaryRecordAccessor(Of TValue, TFieldType).GetFieldCount method" Url="html/334a2219-d285-404e-5f78-bdc4369a2824.htm" />
   <HelpKINode Title="DictionaryRecordAccessor(Of TValue, TFieldType).GetFieldNameEnumerator method" Url="html/beb7644f-77c8-4f67-c85b-8a49580d7f8e.htm" />
+  <HelpKINode Title="DictionaryRecordAccessor(Of TValue, TFieldType).IndexOfField method" Url="html/4ae28c4e-6d8f-a323-c236-321618703791.htm" />
   <HelpKINode Title="DictionaryRecordAccessor(Of TValue, TFieldType).Item property" Url="html/b58a4acc-bb11-aeb9-c798-f73bd58f926c.htm" />
   <HelpKINode Title="DictionaryRecordAccessor(Of TValue, TFieldType).TryGetValue method" Url="html/b0bb337a-ffe0-b6c8-6270-2c615551f027.htm" />
   <HelpKINode Title="DictionaryRecordAccessor&lt;TValue, TFieldType&gt; class">
@@ -262,6 +283,7 @@
   <HelpKINode Title="DictionaryRecordAccessor&lt;TValue, TFieldType&gt;.GetEnumerator method" Url="html/75580205-198d-b4ae-f17c-7d8acc77365f.htm" />
   <HelpKINode Title="DictionaryRecordAccessor&lt;TValue, TFieldType&gt;.GetFieldCount method" Url="html/334a2219-d285-404e-5f78-bdc4369a2824.htm" />
   <HelpKINode Title="DictionaryRecordAccessor&lt;TValue, TFieldType&gt;.GetFieldNameEnumerator method" Url="html/beb7644f-77c8-4f67-c85b-8a49580d7f8e.htm" />
+  <HelpKINode Title="DictionaryRecordAccessor&lt;TValue, TFieldType&gt;.IndexOfField method" Url="html/4ae28c4e-6d8f-a323-c236-321618703791.htm" />
   <HelpKINode Title="DictionaryRecordAccessor&lt;TValue, TFieldType&gt;.Item property" Url="html/b58a4acc-bb11-aeb9-c798-f73bd58f926c.htm" />
   <HelpKINode Title="DictionaryRecordAccessor&lt;TValue, TFieldType&gt;.TryGetValue method" Url="html/b0bb337a-ffe0-b6c8-6270-2c615551f027.htm" />
   <HelpKINode Title="Dispose method">
@@ -271,78 +293,136 @@
     <HelpKINode Title="CsvWriter.Dispose Method " Url="html/0ee62027-2c32-ee0e-72e0-de96d32c6e30.htm" />
     <HelpKINode Title="RecordEnumeratorAdapter(TValue, TBaseRecord).Dispose Method " Url="html/48fb0bb6-602f-48a8-55d9-8b1fc081d0cc.htm" />
   </HelpKINode>
+  <HelpKINode Title="EmptyRecordAccessor(Of TValue) class">
+    <HelpKINode Title="EmptyRecordAccessor(TValue) Class" Url="html/c41dade4-9118-46ff-1dac-14a373bdb4c0.htm" />
+    <HelpKINode Title="constructor" Url="html/88201fa4-573a-c582-549f-6f15c92c038d.htm" />
+    <HelpKINode Title="methods" Url="html/a25142d4-70dd-0d16-f4de-7443f3a6dd54.htm" />
+    <HelpKINode Title="properties" Url="html/4262aeaf-8a30-41f1-b093-c8cb280f1863.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmptyRecordAccessor(Of TValue).EmptyRecordAccessor constructor" Url="html/88201fa4-573a-c582-549f-6f15c92c038d.htm" />
+  <HelpKINode Title="EmptyRecordAccessor(Of TValue).GetEnumerator method" Url="html/2b754ac1-c508-5fdf-24b5-d8ec914524f8.htm" />
+  <HelpKINode Title="EmptyRecordAccessor(Of TValue).GetFieldCount method" Url="html/46362708-4813-6933-9585-c8e6b0916c46.htm" />
+  <HelpKINode Title="EmptyRecordAccessor(Of TValue).IndexOfField method" Url="html/04a10f8a-a824-947f-1d40-e4443d29cf13.htm" />
+  <HelpKINode Title="EmptyRecordAccessor(Of TValue).Item property" Url="html/efb1ebc8-c2c0-cfe4-a9e9-508a49a0075d.htm" />
+  <HelpKINode Title="EmptyRecordAccessor(Of TValue).TryGetValue method" Url="html/58977a1a-e052-1811-3345-dd66a26ac5c9.htm" />
+  <HelpKINode Title="EmptyRecordAccessor&lt;TValue&gt; class">
+    <HelpKINode Title="EmptyRecordAccessor(TValue) Class" Url="html/c41dade4-9118-46ff-1dac-14a373bdb4c0.htm" />
+    <HelpKINode Title="constructor" Url="html/88201fa4-573a-c582-549f-6f15c92c038d.htm" />
+    <HelpKINode Title="methods" Url="html/a25142d4-70dd-0d16-f4de-7443f3a6dd54.htm" />
+    <HelpKINode Title="properties" Url="html/4262aeaf-8a30-41f1-b093-c8cb280f1863.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmptyRecordAccessor&lt;TValue&gt;.EmptyRecordAccessor constructor" Url="html/88201fa4-573a-c582-549f-6f15c92c038d.htm" />
+  <HelpKINode Title="EmptyRecordAccessor&lt;TValue&gt;.GetEnumerator method" Url="html/2b754ac1-c508-5fdf-24b5-d8ec914524f8.htm" />
+  <HelpKINode Title="EmptyRecordAccessor&lt;TValue&gt;.GetFieldCount method" Url="html/46362708-4813-6933-9585-c8e6b0916c46.htm" />
+  <HelpKINode Title="EmptyRecordAccessor&lt;TValue&gt;.IndexOfField method" Url="html/04a10f8a-a824-947f-1d40-e4443d29cf13.htm" />
+  <HelpKINode Title="EmptyRecordAccessor&lt;TValue&gt;.Item property" Url="html/efb1ebc8-c2c0-cfe4-a9e9-508a49a0075d.htm" />
+  <HelpKINode Title="EmptyRecordAccessor&lt;TValue&gt;.TryGetValue method" Url="html/58977a1a-e052-1811-3345-dd66a26ac5c9.htm" />
+  <HelpKINode Title="EncodeField method" Url="html/4c690781-2f01-aca1-8082-90f4f9573422.htm" />
   <HelpKINode Title="EncodeValueInto method" Url="html/a1f0ea81-456d-a9fb-f154-a751cae33fc5.htm" />
   <HelpKINode Title="Equals method">
     <HelpKINode Title="BasicRecordFieldType(TValue).Equals Method " Url="html/ce13a876-b0f9-97f2-1839-9cf823c0bfcd.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).Equals Method " Url="html/7dffca10-f3ab-4a29-fb9e-da00e34a126f.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).Equals Method " Url="html/eb0c8e0c-f4c3-97b3-0a93-dd5b6d0f2b19.htm" />
   </HelpKINode>
   <HelpKINode Title="EqualsRecordSeparator method" Url="html/ae382d31-1c47-3a0b-30ea-f431ecdf56dd.htm" />
   <HelpKINode Title="EqualsUnitSeparator method" Url="html/67fdc9b4-48b7-82ee-ffca-74a6ab96f3bd.htm" />
   <HelpKINode Title="FieldCount property">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).FieldCount Property " Url="html/bc5e04fe-4a2d-6da3-3480-6ed684add1e1.htm" />
-    <HelpKINode Title="IRecordCollection(TValue, TField).FieldCount Property " Url="html/251aa8a6-98db-2f74-ec18-17ad8d7ead2d.htm" />
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType).FieldCount Property " Url="html/251aa8a6-98db-2f74-ec18-17ad8d7ead2d.htm" />
   </HelpKINode>
   <HelpKINode Title="FieldNameAt method">
     <HelpKINode Title="BasicRecordSchema(TFieldType).FieldNameAt Method " Url="html/df07ff7b-c245-badd-f921-e61dafbef131.htm" />
-    <HelpKINode Title="IRecordSchemaAccessor(TFieldType).FieldNameAt Method " Url="html/8309f9ec-fdf6-b731-7a88-24fb47e6c251.htm" />
+    <HelpKINode Title="IRecordSchemaViewer(TFieldType).FieldNameAt Method " Url="html/318e900a-2b99-feb2-e3b8-6f1ae52e3b78.htm" />
   </HelpKINode>
   <HelpKINode Title="FieldNames property">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).FieldNames Property " Url="html/132d34d0-3387-daa4-581c-3112730ac81a.htm" />
     <HelpKINode Title="BasicRecordSchema(TFieldType).FieldNames Property " Url="html/291e06ad-b94d-f3f5-3002-6dee0c84bd9c.htm" />
-    <HelpKINode Title="IRecordCollection(TValue, TField).FieldNames Property " Url="html/24b1eac7-e231-137e-e356-7031aad5f25a.htm" />
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType).FieldNames Property " Url="html/24b1eac7-e231-137e-e356-7031aad5f25a.htm" />
+    <HelpKINode Title="IRecordSchemaViewer(TFieldType).FieldNames Property " Url="html/01240eff-4fbe-0705-e76c-45a3ed9107c7.htm" />
   </HelpKINode>
-  <HelpKINode Title="FieldSchemaSpec(Of TValue) class">
-    <HelpKINode Title="FieldSchemaSpec(TValue) Class" Url="html/3c18f01a-94bc-19e6-466d-0daf0bdb84e9.htm" />
-    <HelpKINode Title="constructor" Url="html/27ee3dc6-9f5c-6745-55a0-1736bce77803.htm" />
-    <HelpKINode Title="methods" Url="html/62409d60-7cb5-cbac-110b-78ba85d17ef5.htm" />
+  <HelpKINode Title="FieldNameValuePair(Of TValue) structure">
+    <HelpKINode Title="FieldNameValuePair(TValue) Structure" Url="html/e500cf70-0b2e-a27d-6509-0fe9f13a68fb.htm" />
+    <HelpKINode Title="constructor" Url="html/d18ff056-6130-f08c-7877-b9b025556191.htm" />
+    <HelpKINode Title="methods" Url="html/c782439c-fa06-522e-5614-d77ffee7f6b5.htm" />
+    <HelpKINode Title="properties" Url="html/aaa86f09-d52d-eafe-de13-59414fa9a087.htm" />
   </HelpKINode>
-  <HelpKINode Title="FieldSchemaSpec(Of TValue).FieldSchemaSpec constructor" Url="html/27ee3dc6-9f5c-6745-55a0-1736bce77803.htm" />
-  <HelpKINode Title="FieldSchemaSpec(Of TValue).ParseEnumerable method" Url="html/b946c52b-72c7-21e8-7701-3f482e493bc4.htm" />
-  <HelpKINode Title="FieldSchemaSpec(Of TValue).ParseField method" Url="html/2ca515a6-991a-791d-0360-00beb7e51427.htm" />
-  <HelpKINode Title="FieldSchemaSpec&lt;TValue&gt; class">
-    <HelpKINode Title="FieldSchemaSpec(TValue) Class" Url="html/3c18f01a-94bc-19e6-466d-0daf0bdb84e9.htm" />
-    <HelpKINode Title="constructor" Url="html/27ee3dc6-9f5c-6745-55a0-1736bce77803.htm" />
-    <HelpKINode Title="methods" Url="html/62409d60-7cb5-cbac-110b-78ba85d17ef5.htm" />
+  <HelpKINode Title="FieldNameValuePair(Of TValue).FieldNameValuePair constructor" Url="html/d18ff056-6130-f08c-7877-b9b025556191.htm" />
+  <HelpKINode Title="FieldNameValuePair(Of TValue).Name property" Url="html/80ba16d6-9ee5-8f67-a0ec-0d96fed3b73e.htm" />
+  <HelpKINode Title="FieldNameValuePair(Of TValue).Value property" Url="html/625e3090-cad5-6fdb-b813-63d3fc5a8cce.htm" />
+  <HelpKINode Title="FieldNameValuePair&lt;TValue&gt; structure">
+    <HelpKINode Title="FieldNameValuePair(TValue) Structure" Url="html/e500cf70-0b2e-a27d-6509-0fe9f13a68fb.htm" />
+    <HelpKINode Title="constructor" Url="html/d18ff056-6130-f08c-7877-b9b025556191.htm" />
+    <HelpKINode Title="methods" Url="html/c782439c-fa06-522e-5614-d77ffee7f6b5.htm" />
+    <HelpKINode Title="properties" Url="html/aaa86f09-d52d-eafe-de13-59414fa9a087.htm" />
   </HelpKINode>
-  <HelpKINode Title="FieldSchemaSpec&lt;TValue&gt;.FieldSchemaSpec constructor" Url="html/27ee3dc6-9f5c-6745-55a0-1736bce77803.htm" />
-  <HelpKINode Title="FieldSchemaSpec&lt;TValue&gt;.ParseEnumerable method" Url="html/b946c52b-72c7-21e8-7701-3f482e493bc4.htm" />
-  <HelpKINode Title="FieldSchemaSpec&lt;TValue&gt;.ParseField method" Url="html/2ca515a6-991a-791d-0360-00beb7e51427.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue) class">
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue) Class" Url="html/2200da2c-ad3a-5db6-3b66-383c975d19c3.htm" />
-    <HelpKINode Title="methods" Url="html/a2a97375-a569-f51f-9348-80881b23569a.htm" />
-    <HelpKINode Title="properties" Url="html/f2c177fc-f8da-3912-c675-d4da44503438.htm" />
+  <HelpKINode Title="FieldNameValuePair&lt;TValue&gt;.FieldNameValuePair constructor" Url="html/d18ff056-6130-f08c-7877-b9b025556191.htm" />
+  <HelpKINode Title="FieldNameValuePair&lt;TValue&gt;.Name property" Url="html/80ba16d6-9ee5-8f67-a0ec-0d96fed3b73e.htm" />
+  <HelpKINode Title="FieldNameValuePair&lt;TValue&gt;.Value property" Url="html/625e3090-cad5-6fdb-b813-63d3fc5a8cce.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding(Of TValue) class">
+    <HelpKINode Title="FieldSchemaSpecEncoding(TValue) Class" Url="html/6dba04b0-3a11-7256-4c50-cc7b91bd0bdd.htm" />
+    <HelpKINode Title="constructor" Url="html/1633f7e5-d72c-ca9e-6078-6842afda7cca.htm" />
+    <HelpKINode Title="methods" Url="html/635562aa-6723-2014-d73d-1d1f715c928e.htm" />
   </HelpKINode>
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).Compare method" Url="html/657c5b9c-6e41-e6d5-cf8c-45a73d24edc2.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).DataType property" Url="html/d7901475-1954-6366-eb16-16b224395f53.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).Equals method" Url="html/7dffca10-f3ab-4a29-fb9e-da00e34a126f.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).FieldTypeName property" Url="html/0aa02322-74fd-da7e-e6c5-0ca0d88a1eb5.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).GetEnumerator method" Url="html/23189901-804e-c8eb-7de7-c4359607faa3.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).GetFieldCount method" Url="html/979bfb07-52cc-6a78-2535-ebafa84ee4df.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).GetFieldNameEnumerator method" Url="html/0ddf6d47-6323-34dc-17f3-05c68717f214.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).GetHashCode method" Url="html/dad6e969-203b-66b2-4122-49eaf11fec87.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).IsValid method" Url="html/44e20db5-47cf-c1be-b75e-51aa62a1d194.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).Item property" Url="html/e0e3d947-c482-9576-c8c5-dfce7536df2a.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord(Of TValue).TryGetValue method" Url="html/30bd22eb-3b20-918d-b7eb-8bce66b06820.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt; class">
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue) Class" Url="html/2200da2c-ad3a-5db6-3b66-383c975d19c3.htm" />
-    <HelpKINode Title="methods" Url="html/a2a97375-a569-f51f-9348-80881b23569a.htm" />
-    <HelpKINode Title="properties" Url="html/f2c177fc-f8da-3912-c675-d4da44503438.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding(Of TValue).DecodeEnumerable method" Url="html/4d9bc12e-e7c7-7b10-3150-d97543e3c124.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding(Of TValue).DecodeField method" Url="html/ce1595f8-d4c2-9d67-2219-f9d305672d73.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding(Of TValue).EncodeField method" Url="html/4c690781-2f01-aca1-8082-90f4f9573422.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding(Of TValue).FieldSchemaSpecEncoding constructor" Url="html/1633f7e5-d72c-ca9e-6078-6842afda7cca.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding(Of TValue).GetFieldTypeName method" Url="html/b3644e7e-a473-ee9f-ce50-4f1263aa5502.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding&lt;TValue&gt; class">
+    <HelpKINode Title="FieldSchemaSpecEncoding(TValue) Class" Url="html/6dba04b0-3a11-7256-4c50-cc7b91bd0bdd.htm" />
+    <HelpKINode Title="constructor" Url="html/1633f7e5-d72c-ca9e-6078-6842afda7cca.htm" />
+    <HelpKINode Title="methods" Url="html/635562aa-6723-2014-d73d-1d1f715c928e.htm" />
   </HelpKINode>
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.Compare method" Url="html/657c5b9c-6e41-e6d5-cf8c-45a73d24edc2.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.DataType property" Url="html/d7901475-1954-6366-eb16-16b224395f53.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.Equals method" Url="html/7dffca10-f3ab-4a29-fb9e-da00e34a126f.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.FieldTypeName property" Url="html/0aa02322-74fd-da7e-e6c5-0ca0d88a1eb5.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.GetEnumerator method" Url="html/23189901-804e-c8eb-7de7-c4359607faa3.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.GetFieldCount method" Url="html/979bfb07-52cc-6a78-2535-ebafa84ee4df.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.GetFieldNameEnumerator method" Url="html/0ddf6d47-6323-34dc-17f3-05c68717f214.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.GetHashCode method" Url="html/dad6e969-203b-66b2-4122-49eaf11fec87.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.IsValid method" Url="html/44e20db5-47cf-c1be-b75e-51aa62a1d194.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.Item property" Url="html/e0e3d947-c482-9576-c8c5-dfce7536df2a.htm" />
-  <HelpKINode Title="FieldSchemaSpecFieldRecord&lt;TValue&gt;.TryGetValue method" Url="html/30bd22eb-3b20-918d-b7eb-8bce66b06820.htm" />
-  <HelpKINode Title="FieldTypeName property" Url="html/0aa02322-74fd-da7e-e6c5-0ca0d88a1eb5.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding&lt;TValue&gt;.DecodeEnumerable method" Url="html/4d9bc12e-e7c7-7b10-3150-d97543e3c124.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding&lt;TValue&gt;.DecodeField method" Url="html/ce1595f8-d4c2-9d67-2219-f9d305672d73.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding&lt;TValue&gt;.EncodeField method" Url="html/4c690781-2f01-aca1-8082-90f4f9573422.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding&lt;TValue&gt;.FieldSchemaSpecEncoding constructor" Url="html/1633f7e5-d72c-ca9e-6078-6842afda7cca.htm" />
+  <HelpKINode Title="FieldSchemaSpecEncoding&lt;TValue&gt;.GetFieldTypeName method" Url="html/b3644e7e-a473-ee9f-ce50-4f1263aa5502.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue) class">
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue) Class" Url="html/a736b410-8247-ec4e-b565-d80a38629909.htm" />
+    <HelpKINode Title="methods" Url="html/db266ac6-e85e-0ea4-1504-554bb685ea70.htm" />
+    <HelpKINode Title="properties" Url="html/c2c80b85-e033-dda6-afa7-fc9f42ba1c33.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).Compare method" Url="html/b5854a12-ea37-467b-35f5-96817b34d3df.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).DataType property" Url="html/244d5544-3474-ab92-3681-95ebdf47aed5.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).Equals method" Url="html/eb0c8e0c-f4c3-97b3-0a93-dd5b6d0f2b19.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).FieldTypeName property" Url="html/951e30ab-a9b1-5700-e07e-49e14952c0e5.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).FindField method" Url="html/fc4245a2-6948-860d-2846-e71f2bed0f69.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).GetEnumerator method" Url="html/9e91ec64-f60f-c98b-c810-b60566603cab.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).GetFieldCount method" Url="html/95651e72-2985-132f-6167-59a3ba5cf9e0.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).GetFieldNameEnumerator method" Url="html/3c4b53fe-0455-b3d3-5f30-ac63ef5df0e5.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).GetHashCode method" Url="html/32e7ac14-fc6d-ddd6-4986-95d81f62b6a1.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).IndexOfField method" Url="html/d5a7f998-d4f9-8247-0b5f-9c1fb27335f8.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).IsValid method" Url="html/60004db8-db5d-3867-6ae1-3252a0358fcd.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).Item property" Url="html/d2fafc0b-d8f1-e4f9-8817-df38cef43e79.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType(Of TValue).TryGetValue method" Url="html/aaa5c04e-47be-e35d-342b-71748ec8f0c3.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt; class">
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue) Class" Url="html/a736b410-8247-ec4e-b565-d80a38629909.htm" />
+    <HelpKINode Title="methods" Url="html/db266ac6-e85e-0ea4-1504-554bb685ea70.htm" />
+    <HelpKINode Title="properties" Url="html/c2c80b85-e033-dda6-afa7-fc9f42ba1c33.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.Compare method" Url="html/b5854a12-ea37-467b-35f5-96817b34d3df.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.DataType property" Url="html/244d5544-3474-ab92-3681-95ebdf47aed5.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.Equals method" Url="html/eb0c8e0c-f4c3-97b3-0a93-dd5b6d0f2b19.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.FieldTypeName property" Url="html/951e30ab-a9b1-5700-e07e-49e14952c0e5.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.FindField method" Url="html/fc4245a2-6948-860d-2846-e71f2bed0f69.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.GetEnumerator method" Url="html/9e91ec64-f60f-c98b-c810-b60566603cab.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.GetFieldCount method" Url="html/95651e72-2985-132f-6167-59a3ba5cf9e0.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.GetFieldNameEnumerator method" Url="html/3c4b53fe-0455-b3d3-5f30-ac63ef5df0e5.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.GetHashCode method" Url="html/32e7ac14-fc6d-ddd6-4986-95d81f62b6a1.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.IndexOfField method" Url="html/d5a7f998-d4f9-8247-0b5f-9c1fb27335f8.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.IsValid method" Url="html/60004db8-db5d-3867-6ae1-3252a0358fcd.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.Item property" Url="html/d2fafc0b-d8f1-e4f9-8817-df38cef43e79.htm" />
+  <HelpKINode Title="FieldSchemaSpecFieldType&lt;TValue&gt;.TryGetValue method" Url="html/aaa5c04e-47be-e35d-342b-71748ec8f0c3.htm" />
+  <HelpKINode Title="FieldTypeName property" Url="html/951e30ab-a9b1-5700-e07e-49e14952c0e5.htm" />
   <HelpKINode Title="FieldValueDictionary property" Url="html/d37b43a0-468f-ec7a-2f8a-da82963ad2d9.htm" />
   <HelpKINode Title="FieldValueIsValid method" Url="html/3ac7d109-5897-ffa9-e325-eb84db7067c9.htm" />
   <HelpKINode Title="FieldValueList property" Url="html/4a92d501-30ec-7c43-8c8b-0a075ca6140a.htm" />
+  <HelpKINode Title="FindField method">
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).FindField Method " Url="html/fc4245a2-6948-860d-2846-e71f2bed0f69.htm" />
+    <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).FindField Method " Url="html/f651972e-a9a0-7d8e-3b74-11e2c8e85751.htm" />
+    <HelpKINode Title="ParsingRecordAccessor(TFieldType).FindField Method " Url="html/d6fc6557-9d7f-7954-2297-6a294a554d36.htm" />
+    <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).FindField Method " Url="html/531ac7a1-fc20-2a84-25ab-1d7c0df22f46.htm" />
+  </HelpKINode>
   <HelpKINode Title="FindFirst method">
     <HelpKINode Title="IRecordCollectionIndex(TValue).FindFirst Method " Url="html/b3c192ad-3cd9-9fc2-2a47-89a9523c2f71.htm" />
     <HelpKINode Title="RecordListIndex(TValue, TFieldType).FindFirst Method " Url="html/f5a5bfcf-1a71-6159-a51d-86568ecee4eb.htm" />
@@ -351,7 +431,8 @@
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).GetEnumerator Method " Url="html/d9ddb506-6d00-283e-7a62-a296e6388467.htm" />
     <HelpKINode Title="BasicRecordSchema(TFieldType).GetEnumerator Method " Url="html/bc233cdd-77eb-df49-3d8f-621807f33307.htm" />
     <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType).GetEnumerator Method " Url="html/75580205-198d-b4ae-f17c-7d8acc77365f.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).GetEnumerator Method " Url="html/23189901-804e-c8eb-7de7-c4359607faa3.htm" />
+    <HelpKINode Title="EmptyRecordAccessor(TValue).GetEnumerator Method " Url="html/2b754ac1-c508-5fdf-24b5-d8ec914524f8.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).GetEnumerator Method " Url="html/9e91ec64-f60f-c98b-c810-b60566603cab.htm" />
     <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).GetEnumerator Method " Url="html/06383b72-9580-43a7-b840-144eb8128992.htm" />
     <HelpKINode Title="ParsingRecordAccessor(TFieldType).GetEnumerator Method " Url="html/11862545-5e5a-155a-50d7-15ea9418b439.htm" />
     <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).GetEnumerator Method " Url="html/e6dc3da2-9584-6871-b547-e0c5157c9043.htm" />
@@ -359,8 +440,9 @@
   <HelpKINode Title="GetFieldCount method">
     <HelpKINode Title="BasicRecordSchema(TFieldType).GetFieldCount Method " Url="html/71891dcd-702c-634e-f255-55b6f398752e.htm" />
     <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType).GetFieldCount Method " Url="html/334a2219-d285-404e-5f78-bdc4369a2824.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).GetFieldCount Method " Url="html/979bfb07-52cc-6a78-2535-ebafa84ee4df.htm" />
-    <HelpKINode Title="IRecordAccessor(TValue).GetFieldCount Method " Url="html/3cffce75-392a-7d5d-ddc1-3f16738a680c.htm" />
+    <HelpKINode Title="EmptyRecordAccessor(TValue).GetFieldCount Method " Url="html/46362708-4813-6933-9585-c8e6b0916c46.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).GetFieldCount Method " Url="html/95651e72-2985-132f-6167-59a3ba5cf9e0.htm" />
+    <HelpKINode Title="IRecordViewer(TValue).GetFieldCount Method " Url="html/125f2a68-e970-aba0-5f34-fcab11162937.htm" />
     <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).GetFieldCount Method " Url="html/e488d153-625f-185b-bb3f-1c726b7d3043.htm" />
     <HelpKINode Title="ParsingRecordAccessor(TFieldType).GetFieldCount Method " Url="html/9c14209e-5f2f-3b96-c168-8706356ab215.htm" />
     <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).GetFieldCount Method " Url="html/de7069df-8c74-a4a9-4dff-e8abddd94c01.htm" />
@@ -368,35 +450,62 @@
   <HelpKINode Title="GetFieldNameEnumerator method">
     <HelpKINode Title="BasicRecordSchema(TFieldType).GetFieldNameEnumerator Method " Url="html/7b278c37-b85d-4e26-623a-98bd6906ce69.htm" />
     <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType).GetFieldNameEnumerator Method " Url="html/beb7644f-77c8-4f67-c85b-8a49580d7f8e.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).GetFieldNameEnumerator Method " Url="html/0ddf6d47-6323-34dc-17f3-05c68717f214.htm" />
-    <HelpKINode Title="IRecordAccessor(TValue).GetFieldNameEnumerator Method " Url="html/3fff7ca6-f4d1-ac18-d0ed-66226d617446.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).GetFieldNameEnumerator Method " Url="html/3c4b53fe-0455-b3d3-5f30-ac63ef5df0e5.htm" />
     <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).GetFieldNameEnumerator Method " Url="html/ddf109e1-18e8-317f-66a4-a372351e7b3f.htm" />
-    <HelpKINode Title="ParsingRecordAccessor(TFieldType).GetFieldNameEnumerator Method " Url="html/1fe41603-5649-9f76-00c4-9a912d04be28.htm" />
-    <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).GetFieldNameEnumerator Method " Url="html/730e018d-1bbe-3eb2-ba3c-80a018abdb9a.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetFieldTypeName method" Url="html/b3644e7e-a473-ee9f-ce50-4f1263aa5502.htm" />
   <HelpKINode Title="GetHashCode method">
     <HelpKINode Title="BasicRecordFieldType(TValue).GetHashCode Method " Url="html/be8bda70-7e3e-0dae-4e25-7f38f41b842c.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).GetHashCode Method " Url="html/dad6e969-203b-66b2-4122-49eaf11fec87.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).GetHashCode Method " Url="html/32e7ac14-fc6d-ddd6-4986-95d81f62b6a1.htm" />
   </HelpKINode>
   <HelpKINode Title="GetRecordCollectionBuilder method">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).GetRecordCollectionBuilder Method " Url="html/60906ce3-5330-1ac1-1156-72189502e3dd.htm" />
-    <HelpKINode Title="IRecordCollection(TValue, TField).GetRecordCollectionBuilder Method " Url="html/127056eb-3da5-e531-3c41-3646066f91d4.htm" />
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType).GetRecordCollectionBuilder Method " Url="html/127056eb-3da5-e531-3c41-3646066f91d4.htm" />
   </HelpKINode>
   <HelpKINode Title="GetRecordEnumerator method">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).GetRecordEnumerator Method " Url="html/32f3f6bf-33ab-a66e-1adf-5fa6d1ecbd83.htm" />
-    <HelpKINode Title="IRecordCollection(TValue, TField).GetRecordEnumerator Method " Url="html/58f5347e-1856-de26-82cd-624380ef2ccc.htm" />
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType).GetRecordEnumerator Method " Url="html/58f5347e-1856-de26-82cd-624380ef2ccc.htm" />
     <HelpKINode Title="IRecordCollectionIndex(TValue).GetRecordEnumerator Method " Url="html/386f134c-a0a2-77e9-917d-c842c3555cff.htm" />
     <HelpKINode Title="RecordListIndex(TValue, TFieldType).GetRecordEnumerator Method " Url="html/b9240fb7-537a-37e8-04bb-f248a014c295.htm" />
   </HelpKINode>
   <HelpKINode Title="GetRecordListVisitor method">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).GetRecordListVisitor Method " Url="html/9f1deb8e-6878-24f6-839f-c25b215a2ea4.htm" />
-    <HelpKINode Title="IRecordList(TValue, TField).GetRecordListVisitor Method " Url="html/e39b81f6-b620-0877-28e8-773a68617b48.htm" />
+    <HelpKINode Title="IRecordList(TValue, TFieldType).GetRecordListVisitor Method " Url="html/e39b81f6-b620-0877-28e8-773a68617b48.htm" />
   </HelpKINode>
+  <HelpKINode Title="IFieldNameValuePair(Of TValue) interface">
+    <HelpKINode Title="IFieldNameValuePair(TValue) Interface" Url="html/b47448b2-60b0-de94-1287-7e29e50f6d06.htm" />
+    <HelpKINode Title="properties" Url="html/917c4e46-45c1-c77a-1d0f-ec36e3db9d0d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFieldNameValuePair(Of TValue).Name property" Url="html/880a6ab1-2ed8-5c97-f029-d2b7a64d8d2b.htm" />
+  <HelpKINode Title="IFieldNameValuePair(Of TValue).Value property" Url="html/657386cc-593d-33de-c813-da3908110824.htm" />
+  <HelpKINode Title="IFieldNameValuePair&lt;TValue&gt; interface">
+    <HelpKINode Title="IFieldNameValuePair(TValue) Interface" Url="html/b47448b2-60b0-de94-1287-7e29e50f6d06.htm" />
+    <HelpKINode Title="properties" Url="html/917c4e46-45c1-c77a-1d0f-ec36e3db9d0d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFieldNameValuePair&lt;TValue&gt;.Name property" Url="html/880a6ab1-2ed8-5c97-f029-d2b7a64d8d2b.htm" />
+  <HelpKINode Title="IFieldNameValuePair&lt;TValue&gt;.Value property" Url="html/657386cc-593d-33de-c813-da3908110824.htm" />
+  <HelpKINode Title="IFieldValueStringRepresentation(Of TValue) interface">
+    <HelpKINode Title="IFieldValueStringRepresentation(TValue) Interface" Url="html/5b716911-4dcf-a7e6-9afb-59a2638bc31a.htm" />
+    <HelpKINode Title="methods" Url="html/bb5920c2-5c4e-1797-f474-45d3478574eb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFieldValueStringRepresentation(Of TValue).ToString method" Url="html/4ee093d3-6621-09c7-9e48-fe13a9674940.htm" />
+  <HelpKINode Title="IFieldValueStringRepresentation(Of TValue).TryParse method" Url="html/7b3afd17-1ecd-c33a-4d82-6cdc6c4fc714.htm" />
+  <HelpKINode Title="IFieldValueStringRepresentation&lt;TValue&gt; interface">
+    <HelpKINode Title="IFieldValueStringRepresentation(TValue) Interface" Url="html/5b716911-4dcf-a7e6-9afb-59a2638bc31a.htm" />
+    <HelpKINode Title="methods" Url="html/bb5920c2-5c4e-1797-f474-45d3478574eb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFieldValueStringRepresentation&lt;TValue&gt;.ToString method" Url="html/4ee093d3-6621-09c7-9e48-fe13a9674940.htm" />
+  <HelpKINode Title="IFieldValueStringRepresentation&lt;TValue&gt;.TryParse method" Url="html/7b3afd17-1ecd-c33a-4d82-6cdc6c4fc714.htm" />
   <HelpKINode Title="IndexOf method" Url="html/534f4f89-9a12-da3d-86f0-20b27008cd33.htm" />
   <HelpKINode Title="IndexOfField method">
     <HelpKINode Title="BasicRecordSchema(TFieldType).IndexOfField Method " Url="html/424ca169-d01b-b690-d2aa-7906693b44f3.htm" />
-    <HelpKINode Title="IRecordSchemaAccessor(TFieldType).IndexOfField Method " Url="html/d8c8a2bf-08af-d404-4b1c-23f2b4728557.htm" />
+    <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType).IndexOfField Method " Url="html/4ae28c4e-6d8f-a323-c236-321618703791.htm" />
+    <HelpKINode Title="EmptyRecordAccessor(TValue).IndexOfField Method " Url="html/04a10f8a-a824-947f-1d40-e4443d29cf13.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).IndexOfField Method " Url="html/d5a7f998-d4f9-8247-0b5f-9c1fb27335f8.htm" />
+    <HelpKINode Title="IRecordViewer(TValue).IndexOfField Method " Url="html/0cb0f73c-8619-357e-e7b6-c5cadd7a7a11.htm" />
     <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).IndexOfField Method " Url="html/b4e46045-48eb-1d37-672f-5a6c2942c668.htm" />
+    <HelpKINode Title="ParsingRecordAccessor(TFieldType).IndexOfField Method " Url="html/f4a2f91d-0e4c-accd-93cd-eaad60cb705d.htm" />
+    <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).IndexOfField Method " Url="html/16421a58-cd9c-f663-1d2f-313d7d0f59e5.htm" />
   </HelpKINode>
   <HelpKINode Title="InitializeCurrentItem method">
     <HelpKINode Title="CsvRecordCollectionBuilder.InitializeCurrentItem Method " Url="html/bf5bd155-f959-6ccb-1c04-48dfe9c09641.htm" />
@@ -405,15 +514,13 @@
   </HelpKINode>
   <HelpKINode Title="Insert method">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).Insert Method " Url="html/6474ac88-3f23-018f-f084-40f397146d2b.htm" />
-    <HelpKINode Title="IRecordList(TValue, TField).Insert Method " Url="html/b972c713-4659-db1d-5ef2-53fe40cee738.htm" />
+    <HelpKINode Title="IRecordList(TValue, TFieldType).Insert Method " Url="html/b972c713-4659-db1d-5ef2-53fe40cee738.htm" />
   </HelpKINode>
   <HelpKINode Title="IRecordAccessor(Of TValue) interface">
     <HelpKINode Title="IRecordAccessor(TValue) Interface" Url="html/ecd46d81-5b6d-ee08-268f-540f4638348b.htm" />
     <HelpKINode Title="methods" Url="html/67497f9e-1b5d-c218-4067-ecdb9ac5437c.htm" />
     <HelpKINode Title="properties" Url="html/20bb6057-b0f4-de07-b1ff-1f6dc4c2d613.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordAccessor(Of TValue).GetFieldCount method" Url="html/3cffce75-392a-7d5d-ddc1-3f16738a680c.htm" />
-  <HelpKINode Title="IRecordAccessor(Of TValue).GetFieldNameEnumerator method" Url="html/3fff7ca6-f4d1-ac18-d0ed-66226d617446.htm" />
   <HelpKINode Title="IRecordAccessor(Of TValue).Item property" Url="html/1215f5a4-30ba-9093-8a27-255d1aa5e8e3.htm" />
   <HelpKINode Title="IRecordAccessor(Of TValue).TryGetValue method" Url="html/982d7d66-ecb9-2919-1899-7c7d147e8b98.htm" />
   <HelpKINode Title="IRecordAccessor&lt;TValue&gt; interface">
@@ -421,8 +528,6 @@
     <HelpKINode Title="methods" Url="html/67497f9e-1b5d-c218-4067-ecdb9ac5437c.htm" />
     <HelpKINode Title="properties" Url="html/20bb6057-b0f4-de07-b1ff-1f6dc4c2d613.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordAccessor&lt;TValue&gt;.GetFieldCount method" Url="html/3cffce75-392a-7d5d-ddc1-3f16738a680c.htm" />
-  <HelpKINode Title="IRecordAccessor&lt;TValue&gt;.GetFieldNameEnumerator method" Url="html/3fff7ca6-f4d1-ac18-d0ed-66226d617446.htm" />
   <HelpKINode Title="IRecordAccessor&lt;TValue&gt;.Item property" Url="html/1215f5a4-30ba-9093-8a27-255d1aa5e8e3.htm" />
   <HelpKINode Title="IRecordAccessor&lt;TValue&gt;.TryGetValue method" Url="html/982d7d66-ecb9-2919-1899-7c7d147e8b98.htm" />
   <HelpKINode Title="IRecordAccessorAdapter(Of TValue, TBaseRecord) interface">
@@ -437,30 +542,30 @@
     <HelpKINode Title="properties" Url="html/b2c72318-f988-74b9-e89f-92d29e24ef48.htm" />
   </HelpKINode>
   <HelpKINode Title="IRecordAccessorAdapter&lt;TValue, TBaseRecord&gt;.AttachTo method" Url="html/ecc232b6-00f8-5196-f557-57f57938b3c6.htm" />
-  <HelpKINode Title="IRecordCollection(Of TValue, TField) interface">
-    <HelpKINode Title="IRecordCollection(TValue, TField) Interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType) interface">
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType) Interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
     <HelpKINode Title="methods" Url="html/03ac47af-2a41-22e4-c320-85b8e7e2db5c.htm" />
     <HelpKINode Title="properties" Url="html/5f34bb72-3f5e-9c4e-557c-88b5106a4cd6.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordCollection(Of TValue, TField).Clear method" Url="html/c45d4674-49d0-73ac-0785-5234a880e31b.htm" />
-  <HelpKINode Title="IRecordCollection(Of TValue, TField).Count property" Url="html/6116f10a-dd52-b1c4-07ad-70ff63780362.htm" />
-  <HelpKINode Title="IRecordCollection(Of TValue, TField).FieldCount property" Url="html/251aa8a6-98db-2f74-ec18-17ad8d7ead2d.htm" />
-  <HelpKINode Title="IRecordCollection(Of TValue, TField).FieldNames property" Url="html/24b1eac7-e231-137e-e356-7031aad5f25a.htm" />
-  <HelpKINode Title="IRecordCollection(Of TValue, TField).GetRecordCollectionBuilder method" Url="html/127056eb-3da5-e531-3c41-3646066f91d4.htm" />
-  <HelpKINode Title="IRecordCollection(Of TValue, TField).GetRecordEnumerator method" Url="html/58f5347e-1856-de26-82cd-624380ef2ccc.htm" />
-  <HelpKINode Title="IRecordCollection(Of TValue, TField).RecordSchema property" Url="html/e4a568a4-db71-bad6-8818-28288d1e7f25.htm" />
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt; interface">
-    <HelpKINode Title="IRecordCollection(TValue, TField) Interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType).Clear method" Url="html/c45d4674-49d0-73ac-0785-5234a880e31b.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType).Count property" Url="html/6116f10a-dd52-b1c4-07ad-70ff63780362.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType).FieldCount property" Url="html/251aa8a6-98db-2f74-ec18-17ad8d7ead2d.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType).FieldNames property" Url="html/24b1eac7-e231-137e-e356-7031aad5f25a.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType).GetRecordCollectionBuilder method" Url="html/127056eb-3da5-e531-3c41-3646066f91d4.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType).GetRecordEnumerator method" Url="html/58f5347e-1856-de26-82cd-624380ef2ccc.htm" />
+  <HelpKINode Title="IRecordCollection(Of TValue, TFieldType).RecordSchema property" Url="html/e4a568a4-db71-bad6-8818-28288d1e7f25.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt; interface">
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType) Interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
     <HelpKINode Title="methods" Url="html/03ac47af-2a41-22e4-c320-85b8e7e2db5c.htm" />
     <HelpKINode Title="properties" Url="html/5f34bb72-3f5e-9c4e-557c-88b5106a4cd6.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt;.Clear method" Url="html/c45d4674-49d0-73ac-0785-5234a880e31b.htm" />
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt;.Count property" Url="html/6116f10a-dd52-b1c4-07ad-70ff63780362.htm" />
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt;.FieldCount property" Url="html/251aa8a6-98db-2f74-ec18-17ad8d7ead2d.htm" />
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt;.FieldNames property" Url="html/24b1eac7-e231-137e-e356-7031aad5f25a.htm" />
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt;.GetRecordCollectionBuilder method" Url="html/127056eb-3da5-e531-3c41-3646066f91d4.htm" />
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt;.GetRecordEnumerator method" Url="html/58f5347e-1856-de26-82cd-624380ef2ccc.htm" />
-  <HelpKINode Title="IRecordCollection&lt;TValue, TField&gt;.RecordSchema property" Url="html/e4a568a4-db71-bad6-8818-28288d1e7f25.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt;.Clear method" Url="html/c45d4674-49d0-73ac-0785-5234a880e31b.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt;.Count property" Url="html/6116f10a-dd52-b1c4-07ad-70ff63780362.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt;.FieldCount property" Url="html/251aa8a6-98db-2f74-ec18-17ad8d7ead2d.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt;.FieldNames property" Url="html/24b1eac7-e231-137e-e356-7031aad5f25a.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt;.GetRecordCollectionBuilder method" Url="html/127056eb-3da5-e531-3c41-3646066f91d4.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt;.GetRecordEnumerator method" Url="html/58f5347e-1856-de26-82cd-624380ef2ccc.htm" />
+  <HelpKINode Title="IRecordCollection&lt;TValue, TFieldType&gt;.RecordSchema property" Url="html/e4a568a4-db71-bad6-8818-28288d1e7f25.htm" />
   <HelpKINode Title="IRecordCollectionBuilder(Of TValue) interface">
     <HelpKINode Title="IRecordCollectionBuilder(TValue) Interface" Url="html/61fe04fd-14f3-58d3-3f2b-3e598f4a0f56.htm" />
     <HelpKINode Title="methods" Url="html/0252c724-35fb-0805-e823-11a7949ae357.htm" />
@@ -497,12 +602,12 @@
     <HelpKINode Title="IRecordCollector(TValue) Interface" Url="html/558ea84e-dc32-9a8d-a79f-c9c2a579ed18.htm" />
     <HelpKINode Title="methods" Url="html/a6cbdd01-328e-5be2-4574-823eae1f4683.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordCollector(Of TValue).Add method" Url="html/5ce6911e-a43b-026c-f6cf-f14d3379b6f0.htm" />
+  <HelpKINode Title="IRecordCollector(Of TValue).Add method" Url="html/43dca05b-f68d-da0a-5eeb-d0468eaf1d69.htm" />
   <HelpKINode Title="IRecordCollector&lt;TValue&gt; interface">
     <HelpKINode Title="IRecordCollector(TValue) Interface" Url="html/558ea84e-dc32-9a8d-a79f-c9c2a579ed18.htm" />
     <HelpKINode Title="methods" Url="html/a6cbdd01-328e-5be2-4574-823eae1f4683.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordCollector&lt;TValue&gt;.Add method" Url="html/5ce6911e-a43b-026c-f6cf-f14d3379b6f0.htm" />
+  <HelpKINode Title="IRecordCollector&lt;TValue&gt;.Add method" Url="html/43dca05b-f68d-da0a-5eeb-d0468eaf1d69.htm" />
   <HelpKINode Title="IRecordEnumerator(Of TValue) interface">
     <HelpKINode Title="IRecordEnumerator(TValue) Interface" Url="html/b94c14e0-5544-896a-ebf3-81fc08ca2dcb.htm" />
     <HelpKINode Title="methods" Url="html/eaae0987-71f2-ee28-7f10-62ffa627d756.htm" />
@@ -527,24 +632,24 @@
   </HelpKINode>
   <HelpKINode Title="IRecordFieldType&lt;TValue&gt;.DataType property" Url="html/5dcb7932-7b7a-02c6-0581-92e3bb570701.htm" />
   <HelpKINode Title="IRecordFieldType&lt;TValue&gt;.IsValid method" Url="html/05a97a32-3f48-d431-32c3-170d9fb4ee3c.htm" />
-  <HelpKINode Title="IRecordList(Of TValue, TField) interface">
-    <HelpKINode Title="IRecordList(TValue, TField) Interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
+  <HelpKINode Title="IRecordList(Of TValue, TFieldType) interface">
+    <HelpKINode Title="IRecordList(TValue, TFieldType) Interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
     <HelpKINode Title="methods" Url="html/9c0c97fd-0aa4-f556-b81b-fb20b43810db.htm" />
     <HelpKINode Title="properties" Url="html/9798aa76-91f0-d0e5-be13-6fa55e14db20.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordList(Of TValue, TField).GetRecordListVisitor method" Url="html/e39b81f6-b620-0877-28e8-773a68617b48.htm" />
-  <HelpKINode Title="IRecordList(Of TValue, TField).Insert method" Url="html/b972c713-4659-db1d-5ef2-53fe40cee738.htm" />
-  <HelpKINode Title="IRecordList(Of TValue, TField).Item property" Url="html/b7d64add-2871-193b-ce44-1183ddac60a5.htm" />
-  <HelpKINode Title="IRecordList(Of TValue, TField).RemoveAt method" Url="html/642ec914-a81c-78e3-ad90-25494ec816f2.htm" />
-  <HelpKINode Title="IRecordList&lt;TValue, TField&gt; interface">
-    <HelpKINode Title="IRecordList(TValue, TField) Interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
+  <HelpKINode Title="IRecordList(Of TValue, TFieldType).GetRecordListVisitor method" Url="html/e39b81f6-b620-0877-28e8-773a68617b48.htm" />
+  <HelpKINode Title="IRecordList(Of TValue, TFieldType).Insert method" Url="html/b972c713-4659-db1d-5ef2-53fe40cee738.htm" />
+  <HelpKINode Title="IRecordList(Of TValue, TFieldType).Item property" Url="html/b7d64add-2871-193b-ce44-1183ddac60a5.htm" />
+  <HelpKINode Title="IRecordList(Of TValue, TFieldType).RemoveAt method" Url="html/642ec914-a81c-78e3-ad90-25494ec816f2.htm" />
+  <HelpKINode Title="IRecordList&lt;TValue, TFieldType&gt; interface">
+    <HelpKINode Title="IRecordList(TValue, TFieldType) Interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
     <HelpKINode Title="methods" Url="html/9c0c97fd-0aa4-f556-b81b-fb20b43810db.htm" />
     <HelpKINode Title="properties" Url="html/9798aa76-91f0-d0e5-be13-6fa55e14db20.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordList&lt;TValue, TField&gt;.GetRecordListVisitor method" Url="html/e39b81f6-b620-0877-28e8-773a68617b48.htm" />
-  <HelpKINode Title="IRecordList&lt;TValue, TField&gt;.Insert method" Url="html/b972c713-4659-db1d-5ef2-53fe40cee738.htm" />
-  <HelpKINode Title="IRecordList&lt;TValue, TField&gt;.Item property" Url="html/b7d64add-2871-193b-ce44-1183ddac60a5.htm" />
-  <HelpKINode Title="IRecordList&lt;TValue, TField&gt;.RemoveAt method" Url="html/642ec914-a81c-78e3-ad90-25494ec816f2.htm" />
+  <HelpKINode Title="IRecordList&lt;TValue, TFieldType&gt;.GetRecordListVisitor method" Url="html/e39b81f6-b620-0877-28e8-773a68617b48.htm" />
+  <HelpKINode Title="IRecordList&lt;TValue, TFieldType&gt;.Insert method" Url="html/b972c713-4659-db1d-5ef2-53fe40cee738.htm" />
+  <HelpKINode Title="IRecordList&lt;TValue, TFieldType&gt;.Item property" Url="html/b7d64add-2871-193b-ce44-1183ddac60a5.htm" />
+  <HelpKINode Title="IRecordList&lt;TValue, TFieldType&gt;.RemoveAt method" Url="html/642ec914-a81c-78e3-ad90-25494ec816f2.htm" />
   <HelpKINode Title="IRecordListVisitor(Of TValue) interface">
     <HelpKINode Title="IRecordListVisitor(TValue) Interface" Url="html/d5822a21-e89e-8729-fda7-850a8f0c17ab.htm" />
     <HelpKINode Title="methods" Url="html/29a1b28f-589f-4768-b4b9-0d77d9b3bccc.htm" />
@@ -559,33 +664,51 @@
   </HelpKINode>
   <HelpKINode Title="IRecordListVisitor&lt;TValue&gt;.InitializeCurrentItem method" Url="html/e15971d5-de89-7493-1221-9a1b70514b22.htm" />
   <HelpKINode Title="IRecordListVisitor&lt;TValue&gt;.MoveTo method" Url="html/35f2d9de-89e1-6d99-6f98-1cc416b7a08d.htm" />
-  <HelpKINode Title="IRecordSchemaAccessor(Of TFieldType) interface">
-    <HelpKINode Title="IRecordSchemaAccessor(TFieldType) Interface" Url="html/e6b3f4e6-b611-4d1f-d1cc-5f967d77c09f.htm" />
-    <HelpKINode Title="methods" Url="html/f18995d7-9c6b-c47d-d720-2a0290224820.htm" />
-    <HelpKINode Title="properties" Url="html/9dffa0c0-9c2a-5610-279e-b1131c667585.htm" />
+  <HelpKINode Title="IRecordSchemaViewer(Of TFieldType) interface">
+    <HelpKINode Title="IRecordSchemaViewer(TFieldType) Interface" Url="html/51de93ea-6483-107e-50a8-5e5456188654.htm" />
+    <HelpKINode Title="methods" Url="html/0cb93205-a509-6694-1059-78105b3a81ba.htm" />
+    <HelpKINode Title="properties" Url="html/b037075c-fd9d-ea95-4faf-2128577c815f.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordSchemaAccessor(Of TFieldType).FieldNameAt method" Url="html/8309f9ec-fdf6-b731-7a88-24fb47e6c251.htm" />
-  <HelpKINode Title="IRecordSchemaAccessor(Of TFieldType).IndexOfField method" Url="html/d8c8a2bf-08af-d404-4b1c-23f2b4728557.htm" />
-  <HelpKINode Title="IRecordSchemaAccessor&lt;TFieldType&gt; interface">
-    <HelpKINode Title="IRecordSchemaAccessor(TFieldType) Interface" Url="html/e6b3f4e6-b611-4d1f-d1cc-5f967d77c09f.htm" />
-    <HelpKINode Title="methods" Url="html/f18995d7-9c6b-c47d-d720-2a0290224820.htm" />
-    <HelpKINode Title="properties" Url="html/9dffa0c0-9c2a-5610-279e-b1131c667585.htm" />
+  <HelpKINode Title="IRecordSchemaViewer(Of TFieldType).FieldNameAt method" Url="html/318e900a-2b99-feb2-e3b8-6f1ae52e3b78.htm" />
+  <HelpKINode Title="IRecordSchemaViewer(Of TFieldType).FieldNames property" Url="html/01240eff-4fbe-0705-e76c-45a3ed9107c7.htm" />
+  <HelpKINode Title="IRecordSchemaViewer&lt;TFieldType&gt; interface">
+    <HelpKINode Title="IRecordSchemaViewer(TFieldType) Interface" Url="html/51de93ea-6483-107e-50a8-5e5456188654.htm" />
+    <HelpKINode Title="methods" Url="html/0cb93205-a509-6694-1059-78105b3a81ba.htm" />
+    <HelpKINode Title="properties" Url="html/b037075c-fd9d-ea95-4faf-2128577c815f.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRecordSchemaAccessor&lt;TFieldType&gt;.FieldNameAt method" Url="html/8309f9ec-fdf6-b731-7a88-24fb47e6c251.htm" />
-  <HelpKINode Title="IRecordSchemaAccessor&lt;TFieldType&gt;.IndexOfField method" Url="html/d8c8a2bf-08af-d404-4b1c-23f2b4728557.htm" />
+  <HelpKINode Title="IRecordSchemaViewer&lt;TFieldType&gt;.FieldNameAt method" Url="html/318e900a-2b99-feb2-e3b8-6f1ae52e3b78.htm" />
+  <HelpKINode Title="IRecordSchemaViewer&lt;TFieldType&gt;.FieldNames property" Url="html/01240eff-4fbe-0705-e76c-45a3ed9107c7.htm" />
+  <HelpKINode Title="IRecordViewer(Of TValue) interface">
+    <HelpKINode Title="IRecordViewer(TValue) Interface" Url="html/264251fa-49fd-9705-330c-b1bab49dd75c.htm" />
+    <HelpKINode Title="methods" Url="html/b32a5b67-3934-5b7f-51c5-dd939401f5b5.htm" />
+    <HelpKINode Title="properties" Url="html/4ec8bd44-adeb-6ae2-5151-55253e65b6f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRecordViewer(Of TValue).GetFieldCount method" Url="html/125f2a68-e970-aba0-5f34-fcab11162937.htm" />
+  <HelpKINode Title="IRecordViewer(Of TValue).IndexOfField method" Url="html/0cb0f73c-8619-357e-e7b6-c5cadd7a7a11.htm" />
+  <HelpKINode Title="IRecordViewer(Of TValue).Item property" Url="html/d98774d1-8293-9e58-a011-52bac9a1b71f.htm" />
+  <HelpKINode Title="IRecordViewer&lt;TValue&gt; interface">
+    <HelpKINode Title="IRecordViewer(TValue) Interface" Url="html/264251fa-49fd-9705-330c-b1bab49dd75c.htm" />
+    <HelpKINode Title="methods" Url="html/b32a5b67-3934-5b7f-51c5-dd939401f5b5.htm" />
+    <HelpKINode Title="properties" Url="html/4ec8bd44-adeb-6ae2-5151-55253e65b6f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRecordViewer&lt;TValue&gt;.GetFieldCount method" Url="html/125f2a68-e970-aba0-5f34-fcab11162937.htm" />
+  <HelpKINode Title="IRecordViewer&lt;TValue&gt;.IndexOfField method" Url="html/0cb0f73c-8619-357e-e7b6-c5cadd7a7a11.htm" />
+  <HelpKINode Title="IRecordViewer&lt;TValue&gt;.Item property" Url="html/d98774d1-8293-9e58-a011-52bac9a1b71f.htm" />
   <HelpKINode Title="IsReadOnly property" Url="html/37caee72-4e66-e014-1b94-cdb98f44e3fc.htm" />
   <HelpKINode Title="IsValid method">
     <HelpKINode Title="BasicRecordFieldType(TValue).IsValid Method " Url="html/f07317e0-17d2-00bb-3406-c5b0943bdfb6.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).IsValid Method " Url="html/44e20db5-47cf-c1be-b75e-51aa62a1d194.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).IsValid Method " Url="html/60004db8-db5d-3867-6ae1-3252a0358fcd.htm" />
     <HelpKINode Title="IRecordFieldType(TValue).IsValid Method " Url="html/05a97a32-3f48-d431-32c3-170d9fb4ee3c.htm" />
   </HelpKINode>
   <HelpKINode Title="Item property">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).Item Property " Url="html/20cf0b5c-7d0d-5015-7802-ee8db2488354.htm" />
     <HelpKINode Title="BasicRecordSchema(TFieldType).Item Property " Url="html/f89ff594-3ce4-87fc-87b1-fc9e9d3140ff.htm" />
     <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType).Item Property " Url="html/b58a4acc-bb11-aeb9-c798-f73bd58f926c.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).Item Property " Url="html/e0e3d947-c482-9576-c8c5-dfce7536df2a.htm" />
+    <HelpKINode Title="EmptyRecordAccessor(TValue).Item Property " Url="html/efb1ebc8-c2c0-cfe4-a9e9-508a49a0075d.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).Item Property " Url="html/d2fafc0b-d8f1-e4f9-8817-df38cef43e79.htm" />
     <HelpKINode Title="IRecordAccessor(TValue).Item Property " Url="html/1215f5a4-30ba-9093-8a27-255d1aa5e8e3.htm" />
-    <HelpKINode Title="IRecordList(TValue, TField).Item Property " Url="html/b7d64add-2871-193b-ce44-1183ddac60a5.htm" />
+    <HelpKINode Title="IRecordList(TValue, TFieldType).Item Property " Url="html/b7d64add-2871-193b-ce44-1183ddac60a5.htm" />
+    <HelpKINode Title="IRecordViewer(TValue).Item Property " Url="html/d98774d1-8293-9e58-a011-52bac9a1b71f.htm" />
     <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).Item Property " Url="html/c8dbc4d9-3076-ad80-3ae0-56c593ffde54.htm" />
     <HelpKINode Title="ParsingRecordAccessor(TFieldType).Item Property " Url="html/4773b2c7-0614-14e0-e7a0-d7e5b54fa3c0.htm" />
     <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).Item Property " Url="html/e7a2f703-ecbf-541f-8412-02161d57d975.htm" />
@@ -604,6 +727,7 @@
   <HelpKINode Title="ListRecordAccessor(Of TValue, TFieldType).CompareFieldTo method" Url="html/41e5b154-4862-a6a4-5aab-a7f0acb7342a.htm" />
   <HelpKINode Title="ListRecordAccessor(Of TValue, TFieldType).FieldValueIsValid method" Url="html/3ac7d109-5897-ffa9-e325-eb84db7067c9.htm" />
   <HelpKINode Title="ListRecordAccessor(Of TValue, TFieldType).FieldValueList property" Url="html/4a92d501-30ec-7c43-8c8b-0a075ca6140a.htm" />
+  <HelpKINode Title="ListRecordAccessor(Of TValue, TFieldType).FindField method" Url="html/f651972e-a9a0-7d8e-3b74-11e2c8e85751.htm" />
   <HelpKINode Title="ListRecordAccessor(Of TValue, TFieldType).GetEnumerator method" Url="html/06383b72-9580-43a7-b840-144eb8128992.htm" />
   <HelpKINode Title="ListRecordAccessor(Of TValue, TFieldType).GetFieldCount method" Url="html/e488d153-625f-185b-bb3f-1c726b7d3043.htm" />
   <HelpKINode Title="ListRecordAccessor(Of TValue, TFieldType).GetFieldNameEnumerator method" Url="html/ddf109e1-18e8-317f-66a4-a372351e7b3f.htm" />
@@ -621,6 +745,7 @@
   <HelpKINode Title="ListRecordAccessor&lt;TValue, TFieldType&gt;.CompareFieldTo method" Url="html/41e5b154-4862-a6a4-5aab-a7f0acb7342a.htm" />
   <HelpKINode Title="ListRecordAccessor&lt;TValue, TFieldType&gt;.FieldValueIsValid method" Url="html/3ac7d109-5897-ffa9-e325-eb84db7067c9.htm" />
   <HelpKINode Title="ListRecordAccessor&lt;TValue, TFieldType&gt;.FieldValueList property" Url="html/4a92d501-30ec-7c43-8c8b-0a075ca6140a.htm" />
+  <HelpKINode Title="ListRecordAccessor&lt;TValue, TFieldType&gt;.FindField method" Url="html/f651972e-a9a0-7d8e-3b74-11e2c8e85751.htm" />
   <HelpKINode Title="ListRecordAccessor&lt;TValue, TFieldType&gt;.GetEnumerator method" Url="html/06383b72-9580-43a7-b840-144eb8128992.htm" />
   <HelpKINode Title="ListRecordAccessor&lt;TValue, TFieldType&gt;.GetFieldCount method" Url="html/e488d153-625f-185b-bb3f-1c726b7d3043.htm" />
   <HelpKINode Title="ListRecordAccessor&lt;TValue, TFieldType&gt;.GetFieldNameEnumerator method" Url="html/ddf109e1-18e8-317f-66a4-a372351e7b3f.htm" />
@@ -633,59 +758,65 @@
     <HelpKINode Title="RecordEnumeratorAdapter(TValue, TBaseRecord).MoveNext Method " Url="html/acee2fed-6cf7-7e00-91e0-a6fe08f520f0.htm" />
   </HelpKINode>
   <HelpKINode Title="MoveTo method" Url="html/35f2d9de-89e1-6d99-6f98-1cc416b7a08d.htm" />
-  <HelpKINode Title="ParseEnumerable method" Url="html/b946c52b-72c7-21e8-7701-3f482e493bc4.htm" />
-  <HelpKINode Title="ParseField method" Url="html/2ca515a6-991a-791d-0360-00beb7e51427.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="FieldNameValuePair(TValue).Name Property " Url="html/80ba16d6-9ee5-8f67-a0ec-0d96fed3b73e.htm" />
+    <HelpKINode Title="IFieldNameValuePair(TValue).Name Property " Url="html/880a6ab1-2ed8-5c97-f029-d2b7a64d8d2b.htm" />
+  </HelpKINode>
   <HelpKINode Title="ParsingRecordAccessor(Of TFieldType) class">
     <HelpKINode Title="ParsingRecordAccessor(TFieldType) Class" Url="html/91954260-b48b-c31f-9486-439440be8d75.htm" />
-    <HelpKINode Title="constructor" Url="html/7f5b6902-d01c-87df-e551-6356efe738b3.htm" />
+    <HelpKINode Title="constructor" Url="html/354f2304-4c42-9710-1c0b-25291d1bf12b.htm" />
     <HelpKINode Title="methods" Url="html/27c99380-7898-4140-bf12-23a27ea805ed.htm" />
     <HelpKINode Title="properties" Url="html/4d93d026-612e-fe7c-6c5f-ae2e7481808a.htm" />
   </HelpKINode>
   <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).AttachTo method" Url="html/d9948831-bfa6-44ac-f2cd-3e276a9f979a.htm" />
+  <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).FindField method" Url="html/d6fc6557-9d7f-7954-2297-6a294a554d36.htm" />
   <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).GetEnumerator method" Url="html/11862545-5e5a-155a-50d7-15ea9418b439.htm" />
   <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).GetFieldCount method" Url="html/9c14209e-5f2f-3b96-c168-8706356ab215.htm" />
-  <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).GetFieldNameEnumerator method" Url="html/1fe41603-5649-9f76-00c4-9a912d04be28.htm" />
+  <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).IndexOfField method" Url="html/f4a2f91d-0e4c-accd-93cd-eaad60cb705d.htm" />
   <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).Item property" Url="html/4773b2c7-0614-14e0-e7a0-d7e5b54fa3c0.htm" />
-  <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).ParsingRecordAccessor constructor" Url="html/7f5b6902-d01c-87df-e551-6356efe738b3.htm" />
+  <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).ParsingRecordAccessor constructor" Url="html/354f2304-4c42-9710-1c0b-25291d1bf12b.htm" />
   <HelpKINode Title="ParsingRecordAccessor(Of TFieldType).TryGetValue method" Url="html/50516979-e777-7914-3a8e-1408bc4fa4e0.htm" />
   <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt; class">
     <HelpKINode Title="ParsingRecordAccessor(TFieldType) Class" Url="html/91954260-b48b-c31f-9486-439440be8d75.htm" />
-    <HelpKINode Title="constructor" Url="html/7f5b6902-d01c-87df-e551-6356efe738b3.htm" />
+    <HelpKINode Title="constructor" Url="html/354f2304-4c42-9710-1c0b-25291d1bf12b.htm" />
     <HelpKINode Title="methods" Url="html/27c99380-7898-4140-bf12-23a27ea805ed.htm" />
     <HelpKINode Title="properties" Url="html/4d93d026-612e-fe7c-6c5f-ae2e7481808a.htm" />
   </HelpKINode>
   <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.AttachTo method" Url="html/d9948831-bfa6-44ac-f2cd-3e276a9f979a.htm" />
+  <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.FindField method" Url="html/d6fc6557-9d7f-7954-2297-6a294a554d36.htm" />
   <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.GetEnumerator method" Url="html/11862545-5e5a-155a-50d7-15ea9418b439.htm" />
   <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.GetFieldCount method" Url="html/9c14209e-5f2f-3b96-c168-8706356ab215.htm" />
-  <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.GetFieldNameEnumerator method" Url="html/1fe41603-5649-9f76-00c4-9a912d04be28.htm" />
+  <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.IndexOfField method" Url="html/f4a2f91d-0e4c-accd-93cd-eaad60cb705d.htm" />
   <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.Item property" Url="html/4773b2c7-0614-14e0-e7a0-d7e5b54fa3c0.htm" />
-  <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.ParsingRecordAccessor constructor" Url="html/7f5b6902-d01c-87df-e551-6356efe738b3.htm" />
+  <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.ParsingRecordAccessor constructor" Url="html/354f2304-4c42-9710-1c0b-25291d1bf12b.htm" />
   <HelpKINode Title="ParsingRecordAccessor&lt;TFieldType&gt;.TryGetValue method" Url="html/50516979-e777-7914-3a8e-1408bc4fa4e0.htm" />
   <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType) class">
     <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType) Class" Url="html/b37acda4-6423-f5e5-0956-1e790631ffd1.htm" />
-    <HelpKINode Title="constructor" Url="html/610963ca-6c5d-44e6-e077-c268d25d46e1.htm" />
+    <HelpKINode Title="constructor" Url="html/58f9e5e7-aad2-3b19-7a4c-f32b0da2444d.htm" />
     <HelpKINode Title="methods" Url="html/86d26fd0-551e-df6f-6960-75f47c035ebb.htm" />
     <HelpKINode Title="properties" Url="html/d3b96cab-2d2d-b5b5-212c-b0f12bad8a68.htm" />
   </HelpKINode>
   <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).AttachTo method" Url="html/e51a5bc4-9ce4-9f02-1823-e30c2e981fe7.htm" />
+  <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).FindField method" Url="html/531ac7a1-fc20-2a84-25ab-1d7c0df22f46.htm" />
   <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).GetEnumerator method" Url="html/e6dc3da2-9584-6871-b547-e0c5157c9043.htm" />
   <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).GetFieldCount method" Url="html/de7069df-8c74-a4a9-4dff-e8abddd94c01.htm" />
-  <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).GetFieldNameEnumerator method" Url="html/730e018d-1bbe-3eb2-ba3c-80a018abdb9a.htm" />
+  <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).IndexOfField method" Url="html/16421a58-cd9c-f663-1d2f-313d7d0f59e5.htm" />
   <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).Item property" Url="html/e7a2f703-ecbf-541f-8412-02161d57d975.htm" />
-  <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).PrintingRecordAccessor constructor" Url="html/610963ca-6c5d-44e6-e077-c268d25d46e1.htm" />
+  <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).PrintingRecordAccessor constructor" Url="html/58f9e5e7-aad2-3b19-7a4c-f32b0da2444d.htm" />
   <HelpKINode Title="PrintingRecordAccessor(Of TValue, TFieldType).TryGetValue method" Url="html/2f00d5ce-7051-fab6-4444-45224169ba82.htm" />
   <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt; class">
     <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType) Class" Url="html/b37acda4-6423-f5e5-0956-1e790631ffd1.htm" />
-    <HelpKINode Title="constructor" Url="html/610963ca-6c5d-44e6-e077-c268d25d46e1.htm" />
+    <HelpKINode Title="constructor" Url="html/58f9e5e7-aad2-3b19-7a4c-f32b0da2444d.htm" />
     <HelpKINode Title="methods" Url="html/86d26fd0-551e-df6f-6960-75f47c035ebb.htm" />
     <HelpKINode Title="properties" Url="html/d3b96cab-2d2d-b5b5-212c-b0f12bad8a68.htm" />
   </HelpKINode>
   <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.AttachTo method" Url="html/e51a5bc4-9ce4-9f02-1823-e30c2e981fe7.htm" />
+  <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.FindField method" Url="html/531ac7a1-fc20-2a84-25ab-1d7c0df22f46.htm" />
   <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.GetEnumerator method" Url="html/e6dc3da2-9584-6871-b547-e0c5157c9043.htm" />
   <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.GetFieldCount method" Url="html/de7069df-8c74-a4a9-4dff-e8abddd94c01.htm" />
-  <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.GetFieldNameEnumerator method" Url="html/730e018d-1bbe-3eb2-ba3c-80a018abdb9a.htm" />
+  <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.IndexOfField method" Url="html/16421a58-cd9c-f663-1d2f-313d7d0f59e5.htm" />
   <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.Item property" Url="html/e7a2f703-ecbf-541f-8412-02161d57d975.htm" />
-  <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.PrintingRecordAccessor constructor" Url="html/610963ca-6c5d-44e6-e077-c268d25d46e1.htm" />
+  <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.PrintingRecordAccessor constructor" Url="html/58f9e5e7-aad2-3b19-7a4c-f32b0da2444d.htm" />
   <HelpKINode Title="PrintingRecordAccessor&lt;TValue, TFieldType&gt;.TryGetValue method" Url="html/2f00d5ce-7051-fab6-4444-45224169ba82.htm" />
   <HelpKINode Title="Quote property" Url="html/b2be9d05-1953-f914-9fb0-6aaeca70a474.htm" />
   <HelpKINode Title="QuoteEscape property" Url="html/355fde5a-db85-c161-6d37-288a4c99d7e3.htm" />
@@ -720,8 +851,10 @@
     <HelpKINode Title="constructor" Url="html/811ead39-61c4-b0fd-18b8-c7647c008fcd.htm" />
     <HelpKINode Title="methods" Url="html/b2f258ee-5f5c-2da9-307c-31a8018c3d63.htm" />
   </HelpKINode>
-  <HelpKINode Title="RecordIO.CopyInto(Of TValue) method" Url="html/75815c5a-ae94-07f8-386a-dd5dbbb56e71.htm" />
-  <HelpKINode Title="RecordIO.CopyInto&lt;TValue&gt; method" Url="html/75815c5a-ae94-07f8-386a-dd5dbbb56e71.htm" />
+  <HelpKINode Title="RecordIO.CopyInto(Of TValue) method" Url="html/bac452d6-5419-9417-57e3-678084d43428.htm" />
+  <HelpKINode Title="RecordIO.CopyInto&lt;TValue&gt; method" Url="html/bac452d6-5419-9417-57e3-678084d43428.htm" />
+  <HelpKINode Title="RecordIO.CreateFieldPositionMapping(Of TValue) method" Url="html/998ed49d-4c12-bfbd-2b0f-fcbb4bc16233.htm" />
+  <HelpKINode Title="RecordIO.CreateFieldPositionMapping&lt;TValue&gt; method" Url="html/998ed49d-4c12-bfbd-2b0f-fcbb4bc16233.htm" />
   <HelpKINode Title="RecordIO.ReadInto(Of TValue) method" Url="html/08b3ff5d-5b38-0ed7-1edf-6ef48bca6ec4.htm" />
   <HelpKINode Title="RecordIO.ReadInto&lt;TValue&gt; method" Url="html/08b3ff5d-5b38-0ed7-1edf-6ef48bca6ec4.htm" />
   <HelpKINode Title="RecordIO.RecordIO constructor" Url="html/811ead39-61c4-b0fd-18b8-c7647c008fcd.htm" />
@@ -752,27 +885,36 @@
   <HelpKINode Title="RecordListIndex&lt;TValue, TFieldType&gt;.RecordListIndex constructor" Url="html/1c35184e-97f6-8082-53a0-93c8572e9343.htm" />
   <HelpKINode Title="RecordSchema property">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).RecordSchema Property " Url="html/aa2d3edf-4e22-cfcc-b04b-354f9b11b325.htm" />
-    <HelpKINode Title="IRecordCollection(TValue, TField).RecordSchema Property " Url="html/e4a568a4-db71-bad6-8818-28288d1e7f25.htm" />
+    <HelpKINode Title="IRecordCollection(TValue, TFieldType).RecordSchema Property " Url="html/e4a568a4-db71-bad6-8818-28288d1e7f25.htm" />
   </HelpKINode>
   <HelpKINode Title="RecordSeparator property" Url="html/857b378f-c89b-16db-d4bc-85873b54e8f2.htm" />
   <HelpKINode Title="Remove method" Url="html/4410b6ac-7b87-5069-30f6-55dd89182735.htm" />
   <HelpKINode Title="RemoveAt method">
     <HelpKINode Title="ArrayRecordList(TValue, TFieldType).RemoveAt Method " Url="html/79a6f018-6798-4e02-ae99-972e0aebdeec.htm" />
-    <HelpKINode Title="IRecordList(TValue, TField).RemoveAt Method " Url="html/642ec914-a81c-78e3-ad90-25494ec816f2.htm" />
+    <HelpKINode Title="IRecordList(TValue, TFieldType).RemoveAt Method " Url="html/642ec914-a81c-78e3-ad90-25494ec816f2.htm" />
   </HelpKINode>
   <HelpKINode Title="Reset method">
     <HelpKINode Title="CsvRecordEnumerator.Reset Method " Url="html/c0bb1a9a-9cba-2896-30bb-8c8052527f48.htm" />
     <HelpKINode Title="RecordEnumeratorAdapter(TValue, TBaseRecord).Reset Method " Url="html/4594b1ed-c985-03b9-b7b6-e5e51a36b4e4.htm" />
   </HelpKINode>
   <HelpKINode Title="ShouldQuoteEmptyStrings property" Url="html/3cc2f914-c0f2-30af-b909-a03448e7d423.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="BasicFieldValueStringRepresentation(TValue).ToString Method " Url="html/369c8f8f-fa57-514f-68da-313f1b26df66.htm" />
+    <HelpKINode Title="IFieldValueStringRepresentation(TValue).ToString Method " Url="html/4ee093d3-6621-09c7-9e48-fe13a9674940.htm" />
+  </HelpKINode>
   <HelpKINode Title="TryGetValue method">
     <HelpKINode Title="BasicRecordSchema(TFieldType).TryGetValue Method " Url="html/8984d7af-294b-932f-92e1-56754ccc3363.htm" />
     <HelpKINode Title="DictionaryRecordAccessor(TValue, TFieldType).TryGetValue Method " Url="html/b0bb337a-ffe0-b6c8-6270-2c615551f027.htm" />
-    <HelpKINode Title="FieldSchemaSpecFieldRecord(TValue).TryGetValue Method " Url="html/30bd22eb-3b20-918d-b7eb-8bce66b06820.htm" />
+    <HelpKINode Title="EmptyRecordAccessor(TValue).TryGetValue Method " Url="html/58977a1a-e052-1811-3345-dd66a26ac5c9.htm" />
+    <HelpKINode Title="FieldSchemaSpecFieldType(TValue).TryGetValue Method " Url="html/aaa5c04e-47be-e35d-342b-71748ec8f0c3.htm" />
     <HelpKINode Title="IRecordAccessor(TValue).TryGetValue Method " Url="html/982d7d66-ecb9-2919-1899-7c7d147e8b98.htm" />
     <HelpKINode Title="ListRecordAccessor(TValue, TFieldType).TryGetValue Method " Url="html/aadfc90f-8d70-6ed1-6bd4-612e50d7406f.htm" />
     <HelpKINode Title="ParsingRecordAccessor(TFieldType).TryGetValue Method " Url="html/50516979-e777-7914-3a8e-1408bc4fa4e0.htm" />
     <HelpKINode Title="PrintingRecordAccessor(TValue, TFieldType).TryGetValue Method " Url="html/2f00d5ce-7051-fab6-4444-45224169ba82.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TryParse method">
+    <HelpKINode Title="BasicFieldValueStringRepresentation(TValue).TryParse Method " Url="html/6a97f4ae-5d02-e373-841e-f4b09701db35.htm" />
+    <HelpKINode Title="IFieldValueStringRepresentation(TValue).TryParse Method " Url="html/7b3afd17-1ecd-c33a-4d82-6cdc6c4fc714.htm" />
   </HelpKINode>
   <HelpKINode Title="UnitSeparator property" Url="html/c0e3d1d6-3470-bde5-f214-f17f058adb74.htm" />
   <HelpKINode Title="Upstream.System.Csv namespace" Url="html/d1af5278-99df-588c-1256-1e621336eb1c.htm" />
@@ -783,6 +925,8 @@
   <HelpKINode Title="Upstream.System.Records namespace" Url="html/47b84748-3340-839c-86a5-32804cdd755f.htm" />
   <HelpKINode Title="Upstream.System.Records.ArrayRecordList(Of TValue, TFieldType) class" Url="html/6dff089b-490d-9479-03cb-3b8e2a497bb3.htm" />
   <HelpKINode Title="Upstream.System.Records.ArrayRecordList&lt;TValue, TFieldType&gt; class" Url="html/6dff089b-490d-9479-03cb-3b8e2a497bb3.htm" />
+  <HelpKINode Title="Upstream.System.Records.BasicFieldValueStringRepresentation(Of TValue) class" Url="html/348ffcbb-47ea-df51-8cd7-a25dcf2c5a6c.htm" />
+  <HelpKINode Title="Upstream.System.Records.BasicFieldValueStringRepresentation&lt;TValue&gt; class" Url="html/348ffcbb-47ea-df51-8cd7-a25dcf2c5a6c.htm" />
   <HelpKINode Title="Upstream.System.Records.BasicRecordFieldType(Of TValue) class" Url="html/2f99ba25-97ce-c6fd-134b-86c20036be2b.htm" />
   <HelpKINode Title="Upstream.System.Records.BasicRecordFieldType&lt;TValue&gt; class" Url="html/2f99ba25-97ce-c6fd-134b-86c20036be2b.htm" />
   <HelpKINode Title="Upstream.System.Records.BasicRecordSchema(Of TFieldType) class" Url="html/b8820080-f623-abc5-4453-e1b8f4fdfede.htm" />
@@ -792,16 +936,24 @@
   <HelpKINode Title="Upstream.System.Records.Csv.CsvRecordEnumerator class" Url="html/ca8815cb-c368-9b16-552c-a2a82e1c62ad.htm" />
   <HelpKINode Title="Upstream.System.Records.DictionaryRecordAccessor(Of TValue, TFieldType) class" Url="html/b6b22df3-1ec6-bb4f-651e-2ee7d3bfdce3.htm" />
   <HelpKINode Title="Upstream.System.Records.DictionaryRecordAccessor&lt;TValue, TFieldType&gt; class" Url="html/b6b22df3-1ec6-bb4f-651e-2ee7d3bfdce3.htm" />
-  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpec(Of TValue) class" Url="html/3c18f01a-94bc-19e6-466d-0daf0bdb84e9.htm" />
-  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpec&lt;TValue&gt; class" Url="html/3c18f01a-94bc-19e6-466d-0daf0bdb84e9.htm" />
-  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpecFieldRecord(Of TValue) class" Url="html/2200da2c-ad3a-5db6-3b66-383c975d19c3.htm" />
-  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpecFieldRecord&lt;TValue&gt; class" Url="html/2200da2c-ad3a-5db6-3b66-383c975d19c3.htm" />
+  <HelpKINode Title="Upstream.System.Records.EmptyRecordAccessor(Of TValue) class" Url="html/c41dade4-9118-46ff-1dac-14a373bdb4c0.htm" />
+  <HelpKINode Title="Upstream.System.Records.EmptyRecordAccessor&lt;TValue&gt; class" Url="html/c41dade4-9118-46ff-1dac-14a373bdb4c0.htm" />
+  <HelpKINode Title="Upstream.System.Records.FieldNameValuePair(Of TValue) structure" Url="html/e500cf70-0b2e-a27d-6509-0fe9f13a68fb.htm" />
+  <HelpKINode Title="Upstream.System.Records.FieldNameValuePair&lt;TValue&gt; structure" Url="html/e500cf70-0b2e-a27d-6509-0fe9f13a68fb.htm" />
+  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpecEncoding(Of TValue) class" Url="html/6dba04b0-3a11-7256-4c50-cc7b91bd0bdd.htm" />
+  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpecEncoding&lt;TValue&gt; class" Url="html/6dba04b0-3a11-7256-4c50-cc7b91bd0bdd.htm" />
+  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpecFieldType(Of TValue) class" Url="html/a736b410-8247-ec4e-b565-d80a38629909.htm" />
+  <HelpKINode Title="Upstream.System.Records.FieldSchemaSpecFieldType&lt;TValue&gt; class" Url="html/a736b410-8247-ec4e-b565-d80a38629909.htm" />
+  <HelpKINode Title="Upstream.System.Records.IFieldNameValuePair(Of TValue) interface" Url="html/b47448b2-60b0-de94-1287-7e29e50f6d06.htm" />
+  <HelpKINode Title="Upstream.System.Records.IFieldNameValuePair&lt;TValue&gt; interface" Url="html/b47448b2-60b0-de94-1287-7e29e50f6d06.htm" />
+  <HelpKINode Title="Upstream.System.Records.IFieldValueStringRepresentation(Of TValue) interface" Url="html/5b716911-4dcf-a7e6-9afb-59a2638bc31a.htm" />
+  <HelpKINode Title="Upstream.System.Records.IFieldValueStringRepresentation&lt;TValue&gt; interface" Url="html/5b716911-4dcf-a7e6-9afb-59a2638bc31a.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordAccessor(Of TValue) interface" Url="html/ecd46d81-5b6d-ee08-268f-540f4638348b.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordAccessor&lt;TValue&gt; interface" Url="html/ecd46d81-5b6d-ee08-268f-540f4638348b.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordAccessorAdapter(Of TValue, TBaseRecord) interface" Url="html/c92bb863-8547-cd6f-7010-592ba6157090.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordAccessorAdapter&lt;TValue, TBaseRecord&gt; interface" Url="html/c92bb863-8547-cd6f-7010-592ba6157090.htm" />
-  <HelpKINode Title="Upstream.System.Records.IRecordCollection(Of TValue, TField) interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
-  <HelpKINode Title="Upstream.System.Records.IRecordCollection&lt;TValue, TField&gt; interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordCollection(Of TValue, TFieldType) interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordCollection&lt;TValue, TFieldType&gt; interface" Url="html/75eb8021-db37-d4a8-a476-9b9c02ed5059.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordCollectionBuilder(Of TValue) interface" Url="html/61fe04fd-14f3-58d3-3f2b-3e598f4a0f56.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordCollectionBuilder&lt;TValue&gt; interface" Url="html/61fe04fd-14f3-58d3-3f2b-3e598f4a0f56.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordCollectionIndex(Of TValue) interface" Url="html/8ee39a74-ec8f-4d9d-4cb5-111418d48b16.htm" />
@@ -812,12 +964,14 @@
   <HelpKINode Title="Upstream.System.Records.IRecordEnumerator&lt;TValue&gt; interface" Url="html/b94c14e0-5544-896a-ebf3-81fc08ca2dcb.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordFieldType(Of TValue) interface" Url="html/1c7cc473-be38-1816-e1a1-3ef90d92605e.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordFieldType&lt;TValue&gt; interface" Url="html/1c7cc473-be38-1816-e1a1-3ef90d92605e.htm" />
-  <HelpKINode Title="Upstream.System.Records.IRecordList(Of TValue, TField) interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
-  <HelpKINode Title="Upstream.System.Records.IRecordList&lt;TValue, TField&gt; interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordList(Of TValue, TFieldType) interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordList&lt;TValue, TFieldType&gt; interface" Url="html/c2f1e28f-2dad-02de-eaa5-2ae7dbc65491.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordListVisitor(Of TValue) interface" Url="html/d5822a21-e89e-8729-fda7-850a8f0c17ab.htm" />
   <HelpKINode Title="Upstream.System.Records.IRecordListVisitor&lt;TValue&gt; interface" Url="html/d5822a21-e89e-8729-fda7-850a8f0c17ab.htm" />
-  <HelpKINode Title="Upstream.System.Records.IRecordSchemaAccessor(Of TFieldType) interface" Url="html/e6b3f4e6-b611-4d1f-d1cc-5f967d77c09f.htm" />
-  <HelpKINode Title="Upstream.System.Records.IRecordSchemaAccessor&lt;TFieldType&gt; interface" Url="html/e6b3f4e6-b611-4d1f-d1cc-5f967d77c09f.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordSchemaViewer(Of TFieldType) interface" Url="html/51de93ea-6483-107e-50a8-5e5456188654.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordSchemaViewer&lt;TFieldType&gt; interface" Url="html/51de93ea-6483-107e-50a8-5e5456188654.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordViewer(Of TValue) interface" Url="html/264251fa-49fd-9705-330c-b1bab49dd75c.htm" />
+  <HelpKINode Title="Upstream.System.Records.IRecordViewer&lt;TValue&gt; interface" Url="html/264251fa-49fd-9705-330c-b1bab49dd75c.htm" />
   <HelpKINode Title="Upstream.System.Records.ListRecordAccessor(Of TValue, TFieldType) class" Url="html/7aec4223-0d0e-b70b-2503-862135ea7af8.htm" />
   <HelpKINode Title="Upstream.System.Records.ListRecordAccessor&lt;TValue, TFieldType&gt; class" Url="html/7aec4223-0d0e-b70b-2503-862135ea7af8.htm" />
   <HelpKINode Title="Upstream.System.Records.ParsingRecordAccessor(Of TFieldType) class" Url="html/91954260-b48b-c31f-9486-439440be8d75.htm" />
@@ -829,6 +983,10 @@
   <HelpKINode Title="Upstream.System.Records.RecordIO class" Url="html/814418e7-2715-ad18-c690-2201db4cf53c.htm" />
   <HelpKINode Title="Upstream.System.Records.RecordListIndex(Of TValue, TFieldType) class" Url="html/8501fabd-245a-25da-3ef0-5eb6139a12a5.htm" />
   <HelpKINode Title="Upstream.System.Records.RecordListIndex&lt;TValue, TFieldType&gt; class" Url="html/8501fabd-245a-25da-3ef0-5eb6139a12a5.htm" />
+  <HelpKINode Title="Value property">
+    <HelpKINode Title="FieldNameValuePair(TValue).Value Property " Url="html/625e3090-cad5-6fdb-b813-63d3fc5a8cce.htm" />
+    <HelpKINode Title="IFieldNameValuePair(TValue).Value Property " Url="html/657386cc-593d-33de-c813-da3908110824.htm" />
+  </HelpKINode>
   <HelpKINode Title="ValueText property" Url="html/93ccf636-7427-a6f3-09c2-194c17321f29.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/be43c983-b5ad-4d14-af9d-e8c00d0714f8.htm" />
